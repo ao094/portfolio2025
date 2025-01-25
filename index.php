@@ -22,7 +22,7 @@
  <!-- Lightbox -->
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.5/css/lightbox.min.css">
 
- <meta name="robots" content="noindex" />
+ <meta name="robots" content="noindex, nofollow">
 </head>
 
 <body id="top">
@@ -71,23 +71,27 @@
       </p>
 
       <div class="content-box" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
-       <div class="column2 reverse chosei2">
-        <div class="child">
-         <img src="img/works01.png" alt="企業向け人材育成支援サイト">
+        <h2 class="stitle_eng center"><span>Works 01</span><span class="line"></span></h2>
+        <h3 class="mtext2 text-center chosei3">企業向け人材育成支援サイト</h3>
+       <div class="column2 column2-img chosei2">
+         <div class="child01 child-img">
+         <div class="item-img">
+           <a href="img/works01.png" rel="lightbox[photo]">
+           <img src="img/works01.png" alt="企業向け人材育成支援サイト">
+           </a>
+         </div>
         </div>
         <div class="child textgroup">
-         <h2 class="stitle_eng"><span>Works 01</span><span class="line"></span></h2>
-         <h3 class="mtext2 chosei3">企業向け人材育成支援サイト</h3>
-         <p class="button-s"><a href="#area01" class="area-wrapper modaal-ignore">詳細はこちら</a></p>
-         <p class="mtitle_small">担当範囲</p>
-         <ul class="list_check2 type1">
-          <li>お客様への取材</li>
-          <li>デザイン構想</li>
-          <li>ライティング</li>
-          <li>コーディング</li>
-          <li>UX改善</li>
-          <li>サイトの公開対応</li>
-         </ul>
+          <p class="mtitle_small">担当範囲</p>
+          <ul class="list_check2 type1">
+            <li>お客様への取材</li>
+            <li>デザイン構想</li>
+            <li>ライティング</li>
+            <li>コーディング</li>
+            <li>UX改善</li>
+            <li>サイトの公開対応</li>
+          </ul>
+          <p class="button-s t-m20"><a href="#area01" class="area-wrapper modaal-ignore">詳細はこちら</a></p>
         </div>
        </div>
        <p class="button03"><a href="" target="_blank" rel="nofollow noopener">サンプルサイトはこちら</a></p>
@@ -96,21 +100,21 @@
      <i class="kiritori kiritori_mini"></i>
      <div class="section-container">
       <div class="content-box" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
-       <div class="column2 chosei2">
+        <h2 class="stitle_eng center"><span>Works 02</span><span class="line"></span></h2>
+        <h3 class="mtext2 text-center chosei3">子ども食堂サイト</h3>
+       <div class="column2 column2-img chosei2">
         <div class="child textgroup">
-         <h2 class="stitle_eng"><span>Works 02</span><span class="line"></span></h2>
-         <h3 class="mtext2 chosei3">子ども食堂サイト</h3>
-         <p class="button-s"><a href="#area02" class="area-wrapper modaal-ignore">詳細はこちら</a></p>
-         <p class="mtitle_small">担当範囲</p>
-         <ul class="list_check2 type1">
-          <li>デザイン構想</li>
-          <li>ライティング</li>
-          <li>コーディング</li>
-          <li>UX改善</li>
-          <li>サイトの公開対応</li>
-         </ul>
+          <p class="mtitle_small">担当範囲</p>
+          <ul class="list_check2 type1">
+            <li>デザイン構想</li>
+            <li>ライティング</li>
+            <li>コーディング</li>
+            <li>UX改善</li>
+            <li>サイトの公開対応</li>
+          </ul>
+          <p class="button-s t-m20"><a href="#area02" class="area-wrapper modaal-ignore">詳細はこちら</a></p>
         </div>
-        <div class="child">
+        <div class="child child-img">
          <div class="item-img">
           <a href="img/works02.png" rel="lightbox[photo]">
            <img src="img/works02.png" alt="子ども食堂サイト">
@@ -255,8 +259,8 @@
        <h2 class="title-image type2 text-center"><img src="img/title_about.png" alt="私について"></h2>
        <div class="cont01 content-box transparent">
         <div class="cont01_img">
-         <p class="img-f img01"><img src="img/about01.jpg" alt=""></p>
-         <p class=" img-f img02"><img src="img/about02.jpg" alt=""></p>
+         <p class="img-f img01"><img src="img/about01.webp" alt="沖縄の海を背景に笑う２匹のシーサー"></p>
+         <p class=" img-f img02"><img src="img/about02.webp" alt="パソコンを操作する女性の手"></p>
         </div>
         <div class="cont01_txt type2" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
          <div class="txt textgroup b-m40">
@@ -296,14 +300,14 @@
        <dl class="accordion">
         <dt>ご連絡先</dt>
         <dd>
+          <h4 class="mtitle_small2 type2">氏名</h4>
+          <p>
+           沖本 彩（おきもと あや）
+          </p>
          <ul class="telbnr">
           <li><a href="tel:<?php echo $telNo; ?>"><?php echo $telNo; ?></a></li>
-          <li class="telbnr-mail"><a href="mailto:094aya.design@gmail.com" target="_blank" rel="nofollow noopener">メールでのお問い合わせ</a></li>
+          <li class="telbnr-mail"><a href="mailto:094aya.design@gmail.com" target="_blank" rel="nofollow noopener">Mail</a></li>
          </ul>
-         <h4 class="mtitle_small2 type2">氏名</h4>
-         <p>
-          沖本 彩（おきもと あや）
-         </p>
         </dd>
        </dl>
       </div>

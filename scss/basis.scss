@@ -181,7 +181,7 @@ h4 {
 	}
 }
 .animation {
-	// opacity: 0;
+	opacity: 0;
 }
 .slideup {
 	&.on {
@@ -3177,6 +3177,13 @@ h4 {
 .w300 {
 	width: 300px;
 }
+
+.w400_sp {
+	@include for-size(phone-only) {
+		width: 400px;
+	}
+}
+
 .spbr {
 	display: none;
 }
@@ -4151,7 +4158,7 @@ h4 {
 			}
 
 			&.column2-img {
-				order: -1;
+				order: 1;
 				margin-bottom: 30px;
 				text-align: center;
 			}

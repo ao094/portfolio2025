@@ -6,7 +6,7 @@
     <div class="footer-logo"><a href="./"><img src="img/logo.png" alt="<?php echo $company; ?>"></a></div>
     <nav class="footer_navi chosei3"></nav>
 
-				<p class="text-center_pc mtext0 chosei3">当ポートフォリオサイトのソースコードを、<br>Githubで公開しています。</p>
+				<p class="text-center mtext0 chosei3">当ポートフォリオサイトのソースコードを、<br>Githubで公開しています。</p>
     <p class="button03"><a href="https://github.com/ao094/portfolio2025.git" target="_blank" rel="nofollow noopener">ソースコードはこちら</a></p>
     <p class="copyright"><small>&copy;<?php echo date('Y'); ?> <?php echo $company; ?>.</small></p>
     

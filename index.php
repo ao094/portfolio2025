@@ -123,8 +123,8 @@
                   </div>
                 </div>
               </div>
-              <p class="button03"><a href="https://ohisama-terrace.ayaokimotoportfolio.com/" target="_blank"
-                  rel="nofollow noopener">サンプルサイトはこちら</a></p>
+              <p class="button03"><a href="https://ohisama-terrace.ayaokimotoportfolio.com/?<?= time() ?>"
+                  target="_blank" rel="nofollow noopener">サンプルサイトはこちら</a></p>
             </div>
             <!-- Works1 -->
             <section id="area01" class="hide-area">

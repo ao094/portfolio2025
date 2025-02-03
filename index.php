@@ -95,7 +95,8 @@
                   <p class="button-s t-m20"><a href="#area01" class="area-wrapper modaal-ignore">詳細はこちら</a></p>
                 </div>
               </div>
-              <p class="button03"><a href="" target="_blank" rel="nofollow noopener">サンプルサイトはこちら</a></p>
+              <p class="button03"><a href="https://ver2025-sample01.ayaokimotoportfolio.com/" target="_blank"
+                  rel="nofollow noopener">サンプルサイトはこちら</a></p>
             </div>
           </div>
           <i class="kiritori kiritori_mini"></i>
@@ -340,13 +341,13 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Modaal/0.4.4/js/modaal.min.js"></script>
   <script src="js/modaal.js" type="text/javascript"></script>
   <script>
-  $(function() {
-    // accordion
-    $(".accordion dt").on("click", function() {
-      $(this).next().slideToggle();
-      $(this).toggleClass("on");
+    $(function() {
+      // accordion
+      $(".accordion dt").on("click", function() {
+        $(this).next().slideToggle();
+        $(this).toggleClass("on");
+      });
     });
-  });
   </script>
 </body>
 

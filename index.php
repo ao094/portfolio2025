@@ -54,7 +54,7 @@
               </p>
               <p>
                 仕事をする上で、<span class="bold">お相手目線</span>を最も大切にしております。<br>
-                これまでの経験を活かし、お客様や一緒にお仕事をする仲間が、より安心して、<br class="pcbr">
+                これまでの経験を活かし、お客様や一緒に働く仲間が、より安心して、<br class="pcbr">
                 快適にお仕事をお任せいただけるよう、取り組んでおります。
               </p>
             </div>
@@ -73,12 +73,13 @@
 
             <div class="content-box" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
               <h2 class="stitle_eng center"><span>Works 01</span><span class="line"></span></h2>
-              <h3 class="mtext2 text-center chosei3">企業向け人材育成支援サイト</h3>
+              <h3 class="mtext2 text-center chosei3">A社様事例 人材育成支援サイト</h3>
               <div class="column2 column2-img chosei2">
                 <div class="child01 child-img">
                   <div class="item-img">
                     <a href="img/works01.png" rel="lightbox[photo]">
-                      <img src="img/works01.png" alt="企業向け人材育成支援サイト">
+                      <img src="img/works01.png" alt="A社様事例 人材育成支援サイト">
+                      <p class="tcenter">※実際のサイトを再現する形で<br>サンプルサイトを作成しました。</p>
                     </a>
                   </div>
                 </div>
@@ -103,7 +104,7 @@
           <div class="section-container">
             <div class="content-box" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
               <h2 class="stitle_eng center"><span>Works 02</span><span class="line"></span></h2>
-              <h3 class="mtext2 text-center chosei3">子ども食堂サイト</h3>
+              <h3 class="mtext2 text-center chosei3">一般社団法人B様事例 子ども食堂サイト</h3>
               <div class="column2 column2-img chosei2">
                 <div class="child textgroup">
                   <p class="mtitle_small">担当範囲</p>
@@ -119,7 +120,8 @@
                 <div class="child child-img">
                   <div class="item-img">
                     <a href="img/works02.png" rel="lightbox[photo]">
-                      <img src="img/works02.png" alt="子ども食堂サイト">
+                      <img src="img/works02.png" alt="一般社団法人B様事例 子ども食堂サイト">
+                      <p class="tcenter">※実際のサイトを再現する形で<br>サンプルサイトを作成しました。< /p>
                     </a>
                   </div>
                 </div>
@@ -130,7 +132,7 @@
             <!-- Works1 -->
             <section id="area01" class="hide-area">
               <div class="item-img"><img src="img/works01.png"></div>
-              <h3 class="item-title">企業向け人材育成支援サイト</h3>
+              <h3 class="item-title">A社様事例 企業向け人材育成支援サイト</h3>
               <p class="b-m20">
                 人材育成という無形商材を扱う特性を活かし、スタイリッシュでプロフェッショナルな印象を与えるデザインを意識しました。<br>ユーザーがスムーズにお問い合わせに進めるよう、UI/UXに配慮し、コンテンツの配置やリンクボタンの配色を最適化しています。
               </p>
@@ -151,7 +153,8 @@
             <i class="kiritori kiritori_mini"></i>
 
             <h3 class="mtitle_balloon center"><span>その他、幅広いジャンルの<br class="spbr">サイト制作実績があります！<i></i></span></h3>
-            <div class="content-box3 type1">
+            <p class="mtext-top">これまでに<span>約100件</span>の<br class="spbr">コーポレートサイト制作実績がございます。</p>
+            <div class="content-box3 type1 t-m20">
               <ul class="list-inline">
                 <li>不動産</li>
                 <li>建築</li>
@@ -204,19 +207,19 @@
             <h3 class="mtext2 chosei3">技術スキル</h3>
             <ul class="sub_box b-m40">
               <li>
-                <p class="icon"><img src="img/icon01.png" alt=""></p>
-                <p class="ttl">HTML/CSS</p>
-                <p class="txt">セマンティックなマークアップ対応・レスポンシブデザインの実装・アニメーション対応</p>
-              </li>
-              <li>
-                <p class="icon"><img src="img/icon02.png" alt=""></p>
-                <p class="ttl">Sass</p>
-                <p class="txt">簡潔さ・再利用性の高さを担保したコーディング</p>
+                <p class="icon"><img src="img/icon01_2.png" alt="HTML/CSS,Sass"></p>
+                <p class="ttl">HTML/CSS,Sass</p>
+                <p class="txt">セマンティックなマークアップ対応・レスポンシブ・アニメーション対応</p>
               </li>
               <li>
                 <p class="icon"><img src="img/icon03.png" alt=""></p>
-                <p class="ttl">UI/UXデザイン・CSS設計</p>
-                <p class="txt">課題解決型のデザイン提案・PhotoshopやFigmaを用いた画面デザイン（ワイヤーフレーム）の作成・BEMやFLOCSSを用いたCSS設計</p>
+                <p class="ttl">CSS設計</p>
+                <p class="txt">簡潔さ、再利用性の高さを担保したコーディング・BEMやFLOCSSを用いたCSS設計</p>
+              </li>
+              <li>
+                <p class="icon"><img src="img/icon04.png" alt=""></p>
+                <p class="ttl">UI/UXデザイン</p>
+                <p class="txt">課題解決型のデザイン提案・PhotoshopやFigmaを用いた画面デザイン（ワイヤーフレーム）の作成</p>
               </li>
             </ul>
             <h3 class="mtext2">その他にも...</h3>
@@ -224,6 +227,8 @@
               <li>JavaScript</li>
               <li>jQuery</li>
               <li>PHP</li>
+              <li>Gulp</li>
+              <li>GSAP</li>
               <li>クロスブラウザ対応</li>
               <li>基本的SEO対策</li>
               <li>基本的サーバー管理</li>
@@ -234,12 +239,12 @@
             <h2 class="stitle_eng"><span>Tools</span><span class="line"></span></h2>
             <h3 class="mtext2 chosei3">使用ツール</h3>
             <ul class="list_check2 type1">
-              <li>VSCode</li>
-              <li>Cursor</li>
-              <li>Photoshop</li>
-              <li>Illustrator</li>
-              <li>Figma</li>
-              <li>Git</li>
+              <li><span class="color1">VSCode</span><br>日常的に使用、設定やショートカットに慣れている</li>
+              <li><span class="color1">Cursor</span><br>アシスト機能を活用し、効率的な作業が可能</li>
+              <li><span class="color1">Photoshop</span><br>基本的な編集とデザイン制作が可能</li>
+              <li><span class="color1">Illustrator</span><br>簡単なロゴや図形作成が可能</li>
+              <li><span class="color1">Figma</span><br>簡単なプロトタイプ作成や共同作業が可能</li>
+              <li><span class="color1">Git</span><br>コマンドラインでの操作、基本的なブランチ管理が可能</li>
             </ul>
             <i class="kiritori kiritori_mini"></i>
             <h2 class="stitle_eng"><span>Others</span><span class="line"></span></h2>
@@ -254,7 +259,8 @@
               <li>後輩への技術指導</li>
               <li>チームマネジメント（5人程度のチームリーダー経験）</li>
             </ul>
-            <p class="mtext1 t-m20">現在独学で、Gulp/GSAP/WordPressなどの習得にも取り組んでいます。</p>
+            <p class="mtext1 t-m20">ロゴデザイン・バナーの作成例はこちら</p>
+            <p class="mtext1 t-m20">現在独学で、WordPressなどの習得にも取り組んでいます。</p>
           </div>
         </div>
       </section>
@@ -304,20 +310,11 @@
 
             <div class="content-box">
               <p class="b-m40 text-center_pc">お問い合わせやご連絡は、電話またはメールにてお気軽にご連絡ください。</p>
-              <dl class="accordion">
-                <dt>ご連絡先</dt>
-                <dd>
-                  <h4 class="mtitle_small2 type2">氏名</h4>
-                  <p>
-                    沖本 彩（おきもと あや）
-                  </p>
-                  <ul class="telbnr">
-                    <li><a href="tel:<?php echo $telNo; ?>"><?php echo $telNo; ?></a></li>
-                    <li class="telbnr-mail"><a href="mailto:094aya.design@gmail.com" target="_blank"
-                        rel="nofollow noopener">Mail</a></li>
-                  </ul>
-                </dd>
-              </dl>
+              <ul class="telbnr">
+                <li><a href="tel:<?php echo $telNo; ?>"><?php echo $telNo; ?></a></li>
+                <li class="telbnr-mail"><a href="mailto:094aya.design@gmail.com" target="_blank"
+                    rel="nofollow noopener">Mail</a></li>
+              </ul>
             </div>
 
           </div>
@@ -341,13 +338,13 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Modaal/0.4.4/js/modaal.min.js"></script>
   <script src="js/modaal.js" type="text/javascript"></script>
   <script>
-    $(function() {
-      // accordion
-      $(".accordion dt").on("click", function() {
-        $(this).next().slideToggle();
-        $(this).toggleClass("on");
-      });
+  $(function() {
+    // accordion
+    $(".accordion dt").on("click", function() {
+      $(this).next().slideToggle();
+      $(this).toggleClass("on");
     });
+  });
   </script>
 </body>
 

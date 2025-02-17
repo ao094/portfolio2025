@@ -121,7 +121,7 @@
                   <div class="item-img">
                     <a href="img/works02.png" rel="lightbox[photo]">
                       <img src="img/works02.png" alt="一般社団法人B様事例 子ども食堂サイト">
-                      <p class="tcenter">※実際のサイトを再現する形で<br>サンプルサイトを作成しました。< /p>
+                      <p class="tcenter">※実際のサイトを再現する形で<br>サンプルサイトを作成しました。</p>
                     </a>
                   </div>
                 </div>
@@ -259,9 +259,33 @@
               <li>後輩への技術指導</li>
               <li>チームマネジメント（5人程度のチームリーダー経験）</li>
             </ul>
-            <p class="mtext1 t-m20">ロゴデザイン・バナーの作成例はこちら</p>
-            <p class="mtext1 t-m20">現在独学で、WordPressなどの習得にも取り組んでいます。</p>
+            <div class="text-center t-m40" data-aos="zoom-in" data-aos-delay="400" data-aos-duration="800">
+              <a href="#area03" class="area-wrapper modaal-ignore">
+                <img src="img/bnr_works.jpg" alt="ロゴデザイン・バナーの作成例はこちら" class="img-r">
+              </a>
+            </div>
           </div>
+        </div>
+      </section>
+      <section id="area03" class="hide-area">
+        <h3 class="item-title">ロゴデザイン・バナー作成例</h3>
+        <div class="gallerybox mask animation-round">
+          <ul class="slide_list type1">
+            <li><a href="gallery/001.jpg" rel="lightbox[photo]"><img src="gallery/001.jpg"></a></li>
+            <li><a href="gallery/002.jpg" rel="lightbox[photo]"><img src="gallery/002.jpg"></a></li>
+            <li><a href="gallery/003.jpg" rel="lightbox[photo]"><img src="gallery/003.jpg"></a></li>
+            <li><a href="gallery/004.jpg" rel="lightbox[photo]"><img src="gallery/004.jpg"></a></li>
+            <li><a href="gallery/005.jpg" rel="lightbox[photo]"><img src="gallery/005.jpg"></a></li>
+            <li><a href="gallery/006.jpg" rel="lightbox[photo]"><img src="gallery/006.jpg"></a></li>
+          </ul>
+          <ul class="slide_list2 type1">
+            <li><a href="gallery/007.jpg" rel="lightbox[photo]"><img src="gallery/007.jpg"></a></li>
+            <li><a href="gallery/008.jpg" rel="lightbox[photo]"><img src="gallery/008.jpg"></a></li>
+            <li><a href="gallery/009.jpg" rel="lightbox[photo]"><img src="gallery/009.jpg"></a></li>
+            <li><a href="gallery/010.jpg" rel="lightbox[photo]"><img src="gallery/010.jpg"></a></li>
+            <li><a href="gallery/011.jpg" rel="lightbox[photo]"><img src="gallery/011.jpg"></a></li>
+            <li><a href="gallery/012.jpg" rel="lightbox[photo]"><img src="gallery/012.jpg"></a></li>
+          </ul>
         </div>
       </section>
       <a id="a04"></a>
@@ -337,12 +361,26 @@
   <!-- modaal -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Modaal/0.4.4/js/modaal.min.js"></script>
   <script src="js/modaal.js" type="text/javascript"></script>
+  <!-- infiniteslide -->
+  <script src="js/infiniteslide.js" type="text/javascript"></script>
   <script>
   $(function() {
-    // accordion
-    $(".accordion dt").on("click", function() {
-      $(this).next().slideToggle();
-      $(this).toggleClass("on");
+    // infiniteslide
+    $('.slide_list').infiniteslide({
+      speed: 15,
+      responsive: true,
+      direction: 'right',
+      pauseonhover: false
+    });
+  });
+
+  $(function() {
+    // infiniteslide
+    $('.slide_list2').infiniteslide({
+      speed: 15,
+      responsive: true,
+      direction: 'left',
+      pauseonhover: false
     });
   });
   </script>

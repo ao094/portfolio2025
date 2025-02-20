@@ -184,7 +184,7 @@ $(window).scroll(function () {
 scrollPosition = $(window).height() + $(window).scrollTop();
 $(".animation-round").each(function () {
  if (scrollPosition - 400 > $(this).offset().top) {
-	$(this).addClass("on");
+	$(this).addClass("start");
  }
 });
 });

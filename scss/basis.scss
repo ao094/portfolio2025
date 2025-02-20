@@ -5440,8 +5440,11 @@ h4 {
     margin-left: 10px;
 
     img {
-      width: auto;
-      height: 240px;
+      max-width: 200px;
+      width: 100%;
+      aspect-ratio: 3/2;
+      object-fit: cover;
+      height: auto;
       border-radius: 5px;
       overflow: hidden;
     }
@@ -5482,8 +5485,11 @@ h4 {
     margin-left: 10px;
 
     img {
-      width: auto;
-      height: 240px;
+      max-width: 200px;
+      width: 100%;
+      aspect-ratio: 3/2;
+      object-fit: cover;
+      height: auto;
       border-radius: 5px;
       overflow: hidden;
     }
@@ -5516,4 +5522,18 @@ h4 {
       }
     }
   }
+}
+
+.mask {
+  position: relative;
+  clip-path: circle(1%);
+  transition: 0.6s ease-in all;
+
+  &.start {
+    clip-path: circle(120%);
+  }
+}
+
+.lightbox .lb-image {
+  max-width: unset;
 }

@@ -259,35 +259,35 @@
               <li>後輩への技術指導</li>
               <li>チームマネジメント（5人程度のチームリーダー経験）</li>
             </ul>
-            <div class="text-center t-m40" data-aos="zoom-in" data-aos-delay="400" data-aos-duration="800">
-              <a href="#area03" class="area-wrapper modaal-ignore">
-                <img src="img/bnr_works.jpg" alt="ロゴデザイン・バナーの作成例はこちら" class="img-r">
-              </a>
+            <div class="text-center t-m40">
+              <img src="img/bnr_works.jpg" alt="ロゴ・バナーの作成例はこちら" class="img-r">
+            </div>
+            <div class="content-box transparent">
+              <h3 class="mtitle-bll">ロゴ・バナー作成例</h3>
+
+              <div class="gallerybox">
+                <ul class="slide_list type1">
+                  <li><a href="gallery/001.png" rel="lightbox[photo]"><img src="gallery/001.png"></a></li>
+                  <li><a href="gallery/002.png" rel="lightbox[photo]"><img src="gallery/002.png"></a></li>
+                  <li><a href="gallery/003.jpg" rel="lightbox[photo]"><img src="gallery/003.jpg"></a></li>
+                  <li><a href="gallery/004.png" rel="lightbox[photo]"><img src="gallery/004.png"></a></li>
+                  <li><a href="gallery/005.png" rel="lightbox[photo]"><img src="gallery/005.png"></a></li>
+                  <li><a href="gallery/006.jpg" rel="lightbox[photo]"><img src="gallery/006.jpg"></a></li>
+                </ul>
+                <ul class="slide_list2 type1">
+                  <li><a href="gallery/007.jpg" rel="lightbox[photo]"><img src="gallery/007.jpg"></a></li>
+                  <li><a href="gallery/008.jpg" rel="lightbox[photo]"><img src="gallery/008.jpg"></a></li>
+                  <li><a href="gallery/009.jpg" rel="lightbox[photo]"><img src="gallery/009.jpg"></a></li>
+                  <li><a href="gallery/010.jpg" rel="lightbox[photo]"><img src="gallery/010.jpg"></a></li>
+                  <li><a href="gallery/011.png" rel="lightbox[photo]"><img src="gallery/011.png"></a></li>
+                  <li><a href="gallery/012.png" rel="lightbox[photo]"><img src="gallery/012.png"></a></li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
       </section>
-      <section id="area03" class="hide-area">
-        <h3 class="item-title">ロゴデザイン・バナー作成例</h3>
-        <div class="gallerybox mask animation-round">
-          <ul class="slide_list type1">
-            <li><a href="gallery/001.jpg" rel="lightbox[photo]"><img src="gallery/001.jpg"></a></li>
-            <li><a href="gallery/002.jpg" rel="lightbox[photo]"><img src="gallery/002.jpg"></a></li>
-            <li><a href="gallery/003.jpg" rel="lightbox[photo]"><img src="gallery/003.jpg"></a></li>
-            <li><a href="gallery/004.jpg" rel="lightbox[photo]"><img src="gallery/004.jpg"></a></li>
-            <li><a href="gallery/005.jpg" rel="lightbox[photo]"><img src="gallery/005.jpg"></a></li>
-            <li><a href="gallery/006.jpg" rel="lightbox[photo]"><img src="gallery/006.jpg"></a></li>
-          </ul>
-          <ul class="slide_list2 type1">
-            <li><a href="gallery/007.jpg" rel="lightbox[photo]"><img src="gallery/007.jpg"></a></li>
-            <li><a href="gallery/008.jpg" rel="lightbox[photo]"><img src="gallery/008.jpg"></a></li>
-            <li><a href="gallery/009.jpg" rel="lightbox[photo]"><img src="gallery/009.jpg"></a></li>
-            <li><a href="gallery/010.jpg" rel="lightbox[photo]"><img src="gallery/010.jpg"></a></li>
-            <li><a href="gallery/011.jpg" rel="lightbox[photo]"><img src="gallery/011.jpg"></a></li>
-            <li><a href="gallery/012.jpg" rel="lightbox[photo]"><img src="gallery/012.jpg"></a></li>
-          </ul>
-        </div>
-      </section>
+
       <a id="a04"></a>
       <section class="background-round">
         <div class="background-round__inner background-ashirai type2">
@@ -299,7 +299,7 @@
                   <p class="img-f img01"><img src="img/about01.webp" alt="沖縄の海を背景に笑う２匹のシーサー"></p>
                   <p class=" img-f img02"><img src="img/about02.webp" alt="パソコンを操作する女性の手"></p>
                 </div>
-                <div class="cont01_txt type2" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
+                <div class="cont01_txt type2">
                   <div class="txt textgroup b-m40">
                     <p>
                       幼少期から高校卒業まで、自然豊かな沖縄で、のびのびと育ちました。
@@ -319,17 +319,51 @@
                     <p>
                       現在はWeb制作会社に2年強勤務し、これまでに約100件のWebサイト制作を担当しました。また、月に約200件のサイト保守・運用業務を手がけています。
                     </p>
+                    <p class="mtitle_small t-m20">趣味・特技</p>
+                    <ul class="list-inline">
+                      <li>新しい技術スキルの習得</li>
+                      <li>外国語の勉強</li>
+                      <li>ダンス</li>
+                      <li>旅行</li>
+                      <li>初対面の人との雑談</li>
+                      <li>読書</li>
+                      <li>猫</li>
+                    </ul>
                   </div>
                 </div>
               </div>
             </div>
+            <div class="content-box shadow">
+              <h3 class="mtitle_maru type1"><span class="eng">Strength</span><span class="ja">私の強み</span></h3>
+              <ol class="ol-list">
+                <li>
+                  <span class="mtext1 color1 bold">コミュニケーション力</span><br>
+                  営業職と事務職で培ったヒアリングや調整能力により、ユーザーのニーズを正確に理解し、最適なデザインを提供できます。<br>また、チーム内外で円滑なコミュニケーションを心がけ、プロジェクトをスムーズに進行させる力があります。
+                </li>
+                <li>
+                  <span class="mtext1 color1 bold">問題解決力</span><br>
+                  多岐にわたる業務経験を通じて、課題に対して冷静にアプローチし、解決策を提案・実行してきました。<br>現在の職務では、お客様（ユーザー）のお悩みをもとに改善案を立て、UXの向上を実現しています。
+                </li>
+                <li>
+                  <span class="mtext1 color1 bold">国際的な視野</span><br>
+                  異文化理解を深め、多様な価値観を尊重することで、幅広い視点での提案やコミュニケーションができます。
+                </li>
+                <li>
+                  <span class="mtext1 color1 bold">知的好奇心・向上心</span><br>
+                  新しい技術や情報に常にアンテナを張り、自身の知識として吸収する好奇心があります。
+                </li>
+              </ol>
+            </div>
+            <p class="text-center t-m50 animation slideup">
+              <img src="img/last_sentence.png" alt="最後までお読みいただき、ありがとうございました。お会いできることを楽しみにしています！！">
+            </p>
           </div>
         </div>
       </section>
       <a id="a05"></a>
       <section>
         <div class="section-container">
-          <div class="content-box transparent" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
+          <div class="content-box transparent animation slideup">
             <h2 class="title-image type2 text-center"><img src="img/title_contact.png" alt="お問い合わせ"></h2>
 
             <div class="content-box">
@@ -354,10 +388,7 @@
     integrity="sha256-mBCu5+bVfYzOqpYyK4jm30ZxAZRomuErKEFJFIyrwvM=" crossorigin="anonymous"></script>
   <!-- Lightbox -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.5/js/lightbox.min.js"></script>
-  <!-- aos -->
-  <script src="aos/aos.js" type="text/javascript"></script>
-  <script src="aos/aos_set.js" type="text/javascript"></script>
-  <script src="js/basis.js?<?= time() ?>"></script>
+
   <!-- modaal -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Modaal/0.4.4/js/modaal.min.js"></script>
   <script src="js/modaal.js" type="text/javascript"></script>
@@ -384,6 +415,10 @@
     });
   });
   </script>
+  <!-- aos -->
+  <script src="aos/aos.js" type="text/javascript"></script>
+  <script src="aos/aos_set.js" type="text/javascript"></script>
+  <script src="js/basis.js?<?= time() ?>"></script>
 </body>
 
 </html>

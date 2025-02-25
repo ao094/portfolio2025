@@ -31,6 +31,11 @@ $font__en: "Cabin", sans-serif;
 	font-weight: 500;
 }
 
+@mixin txt-shadow($color: $base_color) {
+	text-shadow: 1px 1px 0px $color, -1px 1px 0px $color, 1px -1px 0px $color, -1px -1px 0px $color, 1px 0px 0px $color,
+		0px 1px 0px $color, -1px 0px 0px $color, 0px -1px 0px $color;
+}
+
 //サイトのベースサイズ
 $default-width: 1100px;
 // width: ($default-width/6);

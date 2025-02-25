@@ -45,18 +45,25 @@
           <div class="content-box transparent">
             <h2 class="stitle_eng center"><span>Greeting</span><span class="line"></span></h2>
             <p class="mtext2 text-center chosei3">ごあいさつ</p>
-            <div class="txt textgroup text-center_pc">
-              <p>
-                はじめまして！<br>
-                お忙しい中、本ページをご覧いただきありがとうございます。<br>
-                Webデザイン・コーディングを専門にお仕事をしております<br class="pcbr">
-                沖本 彩（おきもと あや）と申します。
-              </p>
-              <p>
-                仕事をする上で、<span class="bold">お相手目線</span>を最も大切にしております。<br>
-                これまでの経験を活かし、お客様や一緒に働く仲間が、より安心して、<br class="pcbr">
-                快適にお仕事をお任せいただけるよう、取り組んでおります。
-              </p>
+            <div class="column2 w800" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
+              <div class="child03 text-center">
+                <img src="img/greeting.jpg" alt="沖本 彩" class="img-maru">
+              </div>
+              <div class="child04">
+                <div class="txt textgroup">
+                  <p>
+                    はじめまして！<br>
+                    お忙しい中、本ページをご覧いただきありがとうございます。<br>
+                    Webデザイン・コーディングを専門にお仕事をしております<br class="pcbr">
+                    <span class="bold">沖本 彩（おきもと あや）</span>と申します。
+                  </p>
+                  <p>
+                    仕事をする上で、<span class="bold">お相手目線</span>を最も大切にしております。<br>
+                    これまでの経験を活かし、お客様や一緒に働く仲間が、より安心して、<br class="pcbr">
+                    快適にお仕事をお任せいただけるよう、取り組んでおります。
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -68,10 +75,10 @@
             <h2 class="title-image type2 text-center"><img src="img/title_works.png" alt="実績一覧"></h2>
             <p class="b-m60 text-center_pc">
               本ページに掲載されているサイトは、ポートフォリオ用に作成したサンプルサイトです。<br>現在の職務における制作物については、守秘義務の観点から掲載は控えておりますため、<br
-                class="pcbr">デザインやコーディングスキルをお伝えする目的で独自に作成したサンプルを掲載しています。
+                class="pcbr">デザインやコーディングスキルをお伝えする目的で、実際のサイトに近い形で独自に作成したサンプルを掲載しています。
             </p>
 
-            <div class="content-box" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
+            <div class="content-box transparent" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
               <h2 class="stitle_eng center"><span>Works 01</span><span class="line"></span></h2>
               <h3 class="mtext2 text-center chosei3">A社様事例 人材育成支援サイト</h3>
               <div class="column2 column2-img chosei2">
@@ -79,26 +86,74 @@
                   <div class="item-img">
                     <a href="img/works01.png" rel="lightbox[photo]">
                       <img src="img/works01.png" alt="A社様事例 人材育成支援サイト">
-                      <p class="tcenter">※実際のサイトを再現する形で<br>サンプルサイトを作成しました。</p>
+                      <p class="tcenter">※実際に制作したサイトを再現する形で<br>サンプルサイトを作成しました。</p>
                     </a>
                   </div>
                 </div>
                 <div class="child textgroup">
-                  <p class="mtitle_small">担当範囲</p>
-                  <ul class="list_check2 type1">
+                  <p class="mtitle_small">概要</p>
+
+                  <p class="js-marker">スタイリッシュさを引き立てるよう、ベースカラーの黒に、ブランディングカラーの赤をアクセントに入れて構成しました。</p>
+                  <p class="js-marker"><span>目を引くデザイン</span>を意識しながら、ユーザーに負担をかけずに情報を伝えられるようにしつつ、適度なアニメーションを取り入れました。</p>
+                </div>
+              </div>
+            </div>
+            <div class="content-box3 type1 chosei2">
+              <p class="text-center mtext1">
+                ※ 本サンプルサイトは、実際に制作したサイトを再現したものです。<br>
+                以下の情報は、元となった実案件での詳細情報です。
+              </p>
+              <div class="column2 tp t-m20">
+                <div class="child bm20">
+                  <p class="mtitle_box">お客様のニーズ</p>
+                  <ul class="list_disc">
+                    <li>自作の簡易Webサイトを運営していたが、人材育成支援事業のブランディングに合わせ、<span class="bold">スタイリッシュでプロフェッショナルなデザイン</span>へリニューアルしたい</li>
+                    <li>自作サイト上での商材説明が難しいため、情報を整理して、コンテンツを掲載してほしい</li>
+                    <li>ブランディングカラーの赤を使用したい</li>
+                    <li>見る人の目に止まるような面白い動きが欲しい</li>
+                  </ul>
+                </div>
+                <div class="child bm20">
+                  <p class="mtitle_box">担当範囲</p>
+                  <ul class="list_check2 type1 t-m20">
                     <li>お客様への取材</li>
                     <li>デザイン構想</li>
+                    <li>コンテンツ作成</li>
                     <li>ライティング</li>
                     <li>コーディング</li>
                     <li>UX改善</li>
                     <li>サイトの公開対応</li>
                   </ul>
-                  <p class="button-s t-m20"><a href="#area01" class="area-wrapper modaal-ignore">詳細はこちら</a></p>
+                </div>
+                <div class="child t-m20">
+                  <p class="mtitle_box">ユーザー体験</p>
+                  <ul class="list_disc">
+                    <li>無形商材の特性上、抽象的な情報を分かりやすく整理し、視認性を向上</li>
+                    <li>CTA（お問い合わせボタン）を目立たせ、CV向上を狙った配置に最適化</li>
+                  </ul>
+                </div>
+                <div class="child t-m20">
+                  <p class="mtitle_box">成果と評価</p>
+                  <ul class="list_disc">
+                    <li>提案したデザインが採用され、A社様のブランド戦略とも一致し高評価を獲得</li>
+                    <li>サイトリニューアル後、企業からの受注が2件発生</li>
+                  </ul>
                 </div>
               </div>
-              <p class="button03"><a href="https://ver2025-sample01.ayaokimotoportfolio.com/" target="_blank"
-                  rel="nofollow noopener">サンプルサイトはこちら</a></p>
+
+              <p class="mini color1 text-center">制作時間：29時間51分</p>
             </div>
+            <ul class="list2 jc-center type_width_s">
+              <li>
+                <p class="button01"><a href="https://ver2025-sample01.ayaokimotoportfolio.com/?<?= time() ?>" target="_blank"
+                    rel="nofollow noopener">サンプルサイトはこちら</a></p>
+              </li>
+              <li>
+                <p class="button01"><a href="https://ver2025-sample01.ayaokimotoportfolio.com/" target="_blank"
+                    rel="nofollow noopener">ソースコードはこちら</a></p>
+              </li>
+            </ul>
+
           </div>
           <i class="kiritori kiritori_mini"></i>
           <div class="section-container">
@@ -107,15 +162,12 @@
               <h3 class="mtext2 text-center chosei3">一般社団法人B様事例 子ども食堂サイト</h3>
               <div class="column2 column2-img chosei2">
                 <div class="child textgroup">
-                  <p class="mtitle_small">担当範囲</p>
-                  <ul class="list_check2 type1">
-                    <li>デザイン構想</li>
-                    <li>ライティング</li>
-                    <li>コーディング</li>
-                    <li>UX改善</li>
-                    <li>サイトの公開対応</li>
-                  </ul>
-                  <p class="button-s t-m20"><a href="#area02" class="area-wrapper modaal-ignore">詳細はこちら</a></p>
+                  <p class="mtitle_small">概要</p>
+                  <p>
+                    クライアントは「温かみ」と「親しみやすさ」を重視したデザインを希望されておりました。</p>
+                  <p><span class="bold">元気いっぱいの子どもを連想させるオレンジ</span>を基調とした柔らかいデザインにしつつ、<span class="bold">視覚的に楽しめるイラストを多用</span>し、大人にも子どもにも親しみやすいUIを構築しました。</p>
+                  <p class="js-marker">「<span class="bold">誰でも簡単に情報を見つけられるサイト</span>」を目指しました。</p>
+
                 </div>
                 <div class="child child-img">
                   <div class="item-img">
@@ -126,32 +178,67 @@
                   </div>
                 </div>
               </div>
-              <p class="button03"><a href="https://ohisama-terrace.ayaokimotoportfolio.com/?<?= time() ?>"
-                  target="_blank" rel="nofollow noopener">サンプルサイトはこちら</a></p>
             </div>
-            <!-- Works1 -->
-            <section id="area01" class="hide-area">
-              <div class="item-img"><img src="img/works01.png"></div>
-              <h3 class="item-title">A社様事例 企業向け人材育成支援サイト</h3>
-              <p class="b-m20">
-                人材育成という無形商材を扱う特性を活かし、スタイリッシュでプロフェッショナルな印象を与えるデザインを意識しました。<br>ユーザーがスムーズにお問い合わせに進めるよう、UI/UXに配慮し、コンテンツの配置やリンクボタンの配色を最適化しています。
-              </p>
-              <p class="mini color1 text-center">制作時間：29時間51分</p>
-            </section>
 
-            <!-- Works2 -->
-            <section id="area02" class="hide-area">
-              <div class="item-img"><img src="img/works02.png"></div>
-              <h3 class="item-title">子ども食堂サンプルサイト</h3>
-              <p class="b-m20">
-                温かみのあるオレンジを基調に、子どもたちや地域に親しみやすいデザインを採用しました。<br>直感的なナビゲーションを意識し、訪問者が迷わず目的の情報やお問い合わせにたどり着けるよう、シンプルでわかりやすいUIを実現しています。また、画像やイラストを活用することで視覚的な楽しさも演出しました。
+            <div class="content-box3 type1 chosei2">
+              <p class="text-center mtext1">
+                ※ 本サンプルサイトは、実際に制作したサイトを再現したものです。<br>
+                以下の情報は、元となった実案件での詳細情報です。
               </p>
+              <div class="column2 tp t-m20">
+                <div class="child bm20">
+                  <p class="mtitle_box">お客様のニーズ</p>
+                  <ul class="list_disc">
+                    <li>子ども食堂の存在を周知するため、Webサイトを新規制作したい</li>
+                    <li>子どもたちへの利用促進と支援者・ボランティアへの呼びかけを行いたい</li>
+                    <li>温かみと親しみやすさを重視したデザインにしたい</li>
+                  </ul>
+
+                </div>
+                <div class="child bm20">
+                  <p class="mtitle_box">担当範囲</p>
+                  <ul class="list_check2 type1 t-m20">
+                    <li>デザイン構想</li>
+                    <li>ライティング</li>
+                    <li>コーディング</li>
+                    <li>UX改善</li>
+                    <li>サイトの公開対応</li>
+                  </ul>
+                </div>
+                <div class="child t-m20">
+                  <p class="mtitle_box">デザインとユーザー体験</p>
+                  <ul class="list_disc">
+                    <li>子どもでも直感的に操作できるシンプルなUI設計</li>
+                    <li>施設の情報や支援内容が一目で分かる<span class="bold">アイコン＋カード型レイアウト</span></li>
+                    <li><span class="bold">「やさしさ」を意識した丸みのあるフォントやイラスト</span>を利用し、問い合わせへのハードルを低くするデザインを意識</li>
+                  </ul>
+                </div>
+                <div class="child t-m20">
+                  <p class="mtitle_box">成果と評価</p>
+                  <ul class="list_disc">
+                    <li>クライアントから「イメージ通りのデザイン！」と好評</li>
+                    <li>サイト公開後、サイトを通じて支援者やボランティアスタッフからの問い合わせあり</li>
+                  </ul>
+                </div>
+              </div>
+
               <p class="mini color1 text-center">制作時間：10時間</p>
-            </section>
+            </div>
 
+            <ul class="list2 jc-center type_width_s">
+              <li>
+                <p class="button01"><a href="https://ohisama-terrace.ayaokimotoportfolio.com/?<?= time() ?>"
+                    target="_blank" rel="nofollow noopener">サンプルサイトはこちら</a></p>
+              </li>
+              <li>
+                <p class="button01"><a href="https://ohisama-terrace.ayaokimotoportfolio.com/" target="_blank"
+                    rel="nofollow noopener">ソースコードはこちら</a></p>
+              </li>
+            </ul>
 
-            <i class="kiritori kiritori_mini"></i>
-
+          </div>
+          <i class="kiritori kiritori_mini"></i>
+          <div class="section-container" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
             <h3 class="mtitle_balloon center"><span>その他、幅広いジャンルの<br class="spbr">サイト制作実績があります！<i></i></span></h3>
             <p class="mtext-top">これまでに<span>約100件</span>の<br class="spbr">コーポレートサイト制作実績がございます。</p>
             <div class="content-box3 type1 t-m20">
@@ -232,8 +319,9 @@
               <li>クロスブラウザ対応</li>
               <li>基本的SEO対策</li>
               <li>基本的サーバー管理</li>
-              <li>他者作成Webサイトの更新・保守作業</li>
-              <li>データ入力や文書作成<br class="spbr">（Excel、Wordの使用）</li>
+              <li>他者制作Webサイトの更新・保守作業</li>
+              <li>データ入力(Excel)</li>
+              <li>文書作成(Word)</li>
             </ul>
             <i class="kiritori kiritori_mini"></i>
             <h2 class="stitle_eng"><span>Tools</span><span class="line"></span></h2>
@@ -258,10 +346,11 @@
               <li>制作スケジュールの管理・進行</li>
               <li>後輩への技術指導</li>
               <li>チームマネジメント（5人程度のチームリーダー経験）</li>
+              <li>プレゼンテーション</li>
             </ul>
-            <div class="text-center t-m40">
+            <!-- <div class="text-center t-m40">
               <img src="img/bnr_works.jpg" alt="ロゴ・バナーの作成例はこちら" class="img-r">
-            </div>
+            </div> -->
             <div class="content-box transparent">
               <h3 class="mtitle-bll">ロゴ・バナー作成例</h3>
 
@@ -294,7 +383,7 @@
           <div class="section-container">
             <div class="content-box transparent">
               <h2 class="title-image type2 text-center"><img src="img/title_about.png" alt="私について"></h2>
-              <div class="cont01 content-box transparent">
+              <div class="cont01 content-box transparent animation slideup">
                 <div class="cont01_img">
                   <p class="img-f img01"><img src="img/about01.webp" alt="沖縄の海を背景に笑う２匹のシーサー"></p>
                   <p class=" img-f img02"><img src="img/about02.webp" alt="パソコンを操作する女性の手"></p>
@@ -319,8 +408,8 @@
                     <p>
                       現在はWeb制作会社に2年強勤務し、これまでに約100件のWebサイト制作を担当しました。また、月に約200件のサイト保守・運用業務を手がけています。
                     </p>
-                    <p class="mtitle_small t-m20">趣味・特技</p>
-                    <ul class="list-inline">
+                    <p class="mtitle_small t-m30">趣味・特技</p>
+                    <ul class="list-inline t-m20">
                       <li>新しい技術スキルの習得</li>
                       <li>外国語の勉強</li>
                       <li>ダンス</li>
@@ -333,7 +422,7 @@
                 </div>
               </div>
             </div>
-            <div class="content-box shadow">
+            <div class="content-box shadow animation slideup">
               <h3 class="mtitle_maru type1"><span class="eng">Strength</span><span class="ja">私の強み</span></h3>
               <ol class="ol-list">
                 <li>
@@ -389,31 +478,28 @@
   <!-- Lightbox -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.5/js/lightbox.min.js"></script>
 
-  <!-- modaal -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Modaal/0.4.4/js/modaal.min.js"></script>
-  <script src="js/modaal.js" type="text/javascript"></script>
   <!-- infiniteslide -->
   <script src="js/infiniteslide.js" type="text/javascript"></script>
   <script>
-  $(function() {
-    // infiniteslide
-    $('.slide_list').infiniteslide({
-      speed: 15,
-      responsive: true,
-      direction: 'right',
-      pauseonhover: false
+    $(function() {
+      // infiniteslide
+      $('.slide_list').infiniteslide({
+        speed: 15,
+        responsive: true,
+        direction: 'right',
+        pauseonhover: false
+      });
     });
-  });
 
-  $(function() {
-    // infiniteslide
-    $('.slide_list2').infiniteslide({
-      speed: 15,
-      responsive: true,
-      direction: 'left',
-      pauseonhover: false
+    $(function() {
+      // infiniteslide
+      $('.slide_list2').infiniteslide({
+        speed: 15,
+        responsive: true,
+        direction: 'left',
+        pauseonhover: false
+      });
     });
-  });
   </script>
   <!-- aos -->
   <script src="aos/aos.js" type="text/javascript"></script>

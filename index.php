@@ -47,7 +47,7 @@
             <p class="mtext2 text-center chosei3">ごあいさつ</p>
             <div class="column2 w800" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
               <div class="child03 text-center">
-                <img src="img/greeting.jpg" alt="沖本 彩" class="img-maru">
+                <img src="img/greeting.jpg" alt="沖本 彩" class="img-maru w_half_sp">
               </div>
               <div class="child04">
                 <div class="txt textgroup">
@@ -99,12 +99,12 @@
               </div>
             </div>
             <div class="content-box3 type1 chosei2">
-              <p class="text-center mtext1">
+              <p class="text-center_pc mtext1">
                 ※ 本サンプルサイトは、実際に制作したサイトを再現したものです。<br>
                 以下の情報は、元となった実案件での詳細情報です。
               </p>
-              <div class="column2 tp t-m20">
-                <div class="child bm20">
+              <div class="column2 tp">
+                <div class="child t-m20">
                   <p class="mtitle_box">お客様のニーズ</p>
                   <ul class="list_disc">
                     <li>自作の簡易Webサイトを運営していたが、人材育成支援事業のブランディングに合わせ、<span class="bold">スタイリッシュでプロフェッショナルなデザイン</span>へリニューアルしたい</li>
@@ -113,7 +113,7 @@
                     <li>見る人の目に止まるような面白い動きが欲しい</li>
                   </ul>
                 </div>
-                <div class="child bm20">
+                <div class="child t-m20">
                   <p class="mtitle_box">担当範囲</p>
                   <ul class="list_check2 type1 t-m20">
                     <li>お客様への取材</li>
@@ -149,7 +149,7 @@
                     rel="nofollow noopener">サンプルサイトはこちら</a></p>
               </li>
               <li>
-                <p class="button01"><a href="https://ver2025-sample01.ayaokimotoportfolio.com/" target="_blank"
+                <p class="button01"><a href="https://github.com/ao094/2025sample01" target="_blank"
                     rel="nofollow noopener">ソースコードはこちら</a></p>
               </li>
             </ul>
@@ -181,12 +181,12 @@
             </div>
 
             <div class="content-box3 type1 chosei2">
-              <p class="text-center mtext1">
+              <p class="text-center_pc mtext1">
                 ※ 本サンプルサイトは、実際に制作したサイトを再現したものです。<br>
                 以下の情報は、元となった実案件での詳細情報です。
               </p>
-              <div class="column2 tp t-m20">
-                <div class="child bm20">
+              <div class="column2 tp">
+                <div class="child t-m20">
                   <p class="mtitle_box">お客様のニーズ</p>
                   <ul class="list_disc">
                     <li>子ども食堂の存在を周知するため、Webサイトを新規制作したい</li>
@@ -195,7 +195,7 @@
                   </ul>
 
                 </div>
-                <div class="child bm20">
+                <div class="child t-m20">
                   <p class="mtitle_box">担当範囲</p>
                   <ul class="list_check2 type1 t-m20">
                     <li>デザイン構想</li>
@@ -231,7 +231,7 @@
                     target="_blank" rel="nofollow noopener">サンプルサイトはこちら</a></p>
               </li>
               <li>
-                <p class="button01"><a href="https://ohisama-terrace.ayaokimotoportfolio.com/" target="_blank"
+                <p class="button01"><a href="https://github.com/ao094/2025sample02" target="_blank"
                     rel="nofollow noopener">ソースコードはこちら</a></p>
               </li>
             </ul>
@@ -397,18 +397,11 @@
                       好奇心旺盛な性格と人とのコミュニケーションが大好きなことから、東京への進学や海外留学にも挑戦しました。
                     </p>
                     <p>
-                      現在も、新しい技術スキルの習得や外国語の勉強、ダンス、旅行など、幅広い趣味を楽しみながら日々成長を続けています。
+                      現在も、新しい物事への挑戦を楽しみながら日々成長を続けています。
                     </p>
                   </div>
-                  <div class="txt2 textgroup">
-                    <p class="mtitle_small">経歴</p>
-                    <p>
-                      営業職を3年間、事務職を1年間経験した後、Webデザインとコーディングの勉強を開始しました。
-                    </p>
-                    <p>
-                      現在はWeb制作会社に2年強勤務し、これまでに約100件のWebサイト制作を担当しました。また、月に約200件のサイト保守・運用業務を手がけています。
-                    </p>
-                    <p class="mtitle_small t-m30">趣味・特技</p>
+                  <div class="txt textgroup b-m40">
+                  <p class="mtitle_small t-m30">趣味・特技</p>
                     <ul class="list-inline t-m20">
                       <li>新しい技術スキルの習得</li>
                       <li>外国語の勉強</li>
@@ -423,6 +416,18 @@
               </div>
             </div>
             <div class="content-box shadow animation slideup">
+              <h3 class="mtitle_box">経歴</h3>
+              <ul class="list_disc">
+                <li>大学進学まで沖縄県那覇市に生まれ育つ。</li>
+  <li>明治大学政治経済学部に入学。<br>在学中にカナダとアメリカへ約1年間の留学を経験し、異文化理解とコミュニケーションスキルを磨く。</li>
+  <li>新卒でジョンソン・エンド・ジョンソングループの医薬品部門、ヤンセンファーマ株式会社に入社。MR（医薬情報担当者）として2年間勤務し、医師や医療従事者に対して自社医薬品の情報提供や提案を行い、専門的な知識と高い提案力を習得。</li>
+  <li>その後、転職しインサイドセールスを1年間担当。<br>顧客とのコミュニケーションを通じて課題を把握し、最適なソリューションを提案する営業スキルを磨く。</li>
+  <li>Webデザインとコーディングに興味を持ち、独学および職業訓練を通じてスキルを習得。<br>UI/UXデザインにも関心を持ち、ユーザー視点を意識した設計を学ぶ。</li>
+  <li>現在はWeb制作会社に2年以上勤務し、これまでに約100件のWebサイト制作を担当。<br>新規サイトのデザイン・コーディングだけでなく、月に約200件のサイト保守・運用業務も手がけ、改善提案やSEO対策の実施など、Webサイトの継続的な価値向上に貢献している。</li>
+</ul>
+
+            </div>
+            <div class="content-box shadow animation slideup t-m40">
               <h3 class="mtitle_maru type1"><span class="eng">Strength</span><span class="ja">私の強み</span></h3>
               <ol class="ol-list">
                 <li>

@@ -3360,6 +3360,9 @@ h4 {
       background: $base_color;
       padding: 12px 8px 12px 24px;
       color: #fff;
+      font-size:  unset;
+      font-weight: normal;
+      color: #111;
     }
   }
 
@@ -3428,6 +3431,11 @@ h4 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 5px 20px;
+    li {
+      font-size:  unset;
+      font-weight: normal;
+      color: #111;
+    }
 
     @include for-size(phone-only) {
       grid-template-columns: 1fr;
@@ -3731,6 +3739,12 @@ h4 {
 .w400_sp {
   @include for-size(phone-only) {
     width: 400px;
+  }
+}
+
+.w_half_sp {
+  @include for-size(phone-only) {
+    width: 50%;
   }
 }
 
@@ -5192,6 +5206,8 @@ h4 {
   @include for-size(phone-only) {
     >li {
       width: 100%;
+      max-width: 300px;
+      margin-inline: auto;
     }
   }
 }

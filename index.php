@@ -16,9 +16,6 @@
 
   <?php include 'font_common.php'; ?>
 
-  <!-- modaal -->
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Modaal/0.4.4/css/modaal.min.css">
-
   <!-- Lightbox -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.5/css/lightbox.min.css">
 
@@ -240,7 +237,7 @@
           <i class="kiritori kiritori_mini"></i>
           <div class="section-container" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
             <h3 class="mtitle_balloon center"><span>その他、幅広いジャンルの<br class="spbr">サイト制作実績があります！<i></i></span></h3>
-            <p class="mtext-top">これまでに<span>約100件</span>の<br class="spbr">コーポレートサイト制作実績がございます。</p>
+            <p class="mtext-top">これまでに<span>約100件</span>の<br class="spbr">コーポレートサイト<br class="spbr">制作実績がございます。</p>
             <div class="content-box3 type1 t-m20">
               <ul class="list-inline">
                 <li>不動産</li>
@@ -327,12 +324,12 @@
             <h2 class="stitle_eng"><span>Tools</span><span class="line"></span></h2>
             <h3 class="mtext2 chosei3">使用ツール</h3>
             <ul class="list_check2 type1">
-              <li><span class="color1">VSCode</span><br>日常的に使用、設定やショートカットに慣れている</li>
-              <li><span class="color1">Cursor</span><br>アシスト機能を活用し、効率的な作業が可能</li>
-              <li><span class="color1">Photoshop</span><br>基本的な編集とデザイン制作が可能</li>
-              <li><span class="color1">Illustrator</span><br>簡単なロゴや図形作成が可能</li>
-              <li><span class="color1">Figma</span><br>簡単なプロトタイプ作成や共同作業が可能</li>
-              <li><span class="color1">Git</span><br>コマンドラインでの操作、基本的なブランチ管理が可能</li>
+              <li><span class="color1 bold mtext1">VSCode</span><br>日常的に使用、設定やショートカットに慣れている</li>
+              <li><span class="color1 bold mtext1">Cursor</span><br>アシスト機能を活用し、効率的な作業が可能</li>
+              <li><span class="color1 bold mtext1">Photoshop</span><br>基本的な編集とデザイン制作が可能</li>
+              <li><span class="color1 bold mtext1">Illustrator</span><br>簡単なロゴや図形作成が可能</li>
+              <li><span class="color1 bold mtext1">Figma</span><br>簡単なプロトタイプ作成や共同作業が可能</li>
+              <li><span class="color1 bold mtext1">Git</span><br>コマンドラインでの操作、基本的なブランチ管理が可能</li>
             </ul>
             <i class="kiritori kiritori_mini"></i>
             <h2 class="stitle_eng"><span>Others</span><span class="line"></span></h2>
@@ -401,7 +398,7 @@
                     </p>
                   </div>
                   <div class="txt textgroup b-m40">
-                  <p class="mtitle_small t-m30">趣味・特技</p>
+                    <p class="mtitle_small t-m30">趣味・特技</p>
                     <ul class="list-inline t-m20">
                       <li>新しい技術スキルの習得</li>
                       <li>外国語の勉強</li>
@@ -419,12 +416,12 @@
               <h3 class="mtitle_box">経歴</h3>
               <ul class="list_disc">
                 <li>大学進学まで沖縄県那覇市に生まれ育つ。</li>
-  <li>明治大学政治経済学部に入学。<br>在学中にカナダとアメリカへ約1年間の留学を経験し、異文化理解とコミュニケーションスキルを磨く。</li>
-  <li>新卒でジョンソン・エンド・ジョンソングループの医薬品部門、ヤンセンファーマ株式会社に入社。MR（医薬情報担当者）として2年間勤務し、医師や医療従事者に対して自社医薬品の情報提供や提案を行い、専門的な知識と高い提案力を習得。</li>
-  <li>その後、転職しインサイドセールスを1年間担当。<br>顧客とのコミュニケーションを通じて課題を把握し、最適なソリューションを提案する営業スキルを磨く。</li>
-  <li>Webデザインとコーディングに興味を持ち、独学および職業訓練を通じてスキルを習得。<br>UI/UXデザインにも関心を持ち、ユーザー視点を意識した設計を学ぶ。</li>
-  <li>現在はWeb制作会社に2年以上勤務し、これまでに約100件のWebサイト制作を担当。<br>新規サイトのデザイン・コーディングだけでなく、月に約200件のサイト保守・運用業務も手がけ、改善提案やSEO対策の実施など、Webサイトの継続的な価値向上に貢献している。</li>
-</ul>
+                <li>明治大学政治経済学部に入学。<br>在学中にカナダとアメリカへ約1年間の留学を経験し、異文化理解とコミュニケーションスキルを磨く。</li>
+                <li>新卒でジョンソン・エンド・ジョンソングループの医薬品部門、ヤンセンファーマ株式会社に入社。MR（医薬情報担当者）として2年間勤務し、医師や医療従事者に対して自社医薬品の情報提供や提案を行い、専門的な知識と高い提案力を習得。</li>
+                <li>その後、転職しインサイドセールスを1年間担当。<br>顧客とのコミュニケーションを通じて課題を把握し、最適なソリューションを提案する営業スキルを磨く。</li>
+                <li>Webデザインとコーディングに興味を持ち、独学および職業訓練を通じてスキルを習得。<br>UI/UXデザインにも関心を持ち、ユーザー視点を意識した設計を学ぶ。</li>
+                <li>現在はWeb制作会社に2年以上勤務し、これまでに約100件のWebサイト制作を担当。<br>新規サイトのデザイン・コーディングだけでなく、月に約200件のサイト保守・運用業務も手がけ、改善提案やSEO対策の実施など、Webサイトの継続的な価値向上に貢献している。</li>
+              </ul>
 
             </div>
             <div class="content-box shadow animation slideup t-m40">

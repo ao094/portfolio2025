@@ -29,7 +29,7 @@
     <div id="slide-wrap">
       <div id="slideshow">
         <div class="mv_img">
-          <img src="img/mv.png" alt="想いをカタチに。沖本彩のポートフォリオ">
+          <img src="img/mv.png" loading="lazy" alt="想いをカタチに。沖本彩のポートフォリオ">
         </div>
       </div>
     </div>
@@ -44,7 +44,7 @@
             <p class="mtext2 text-center chosei3">ごあいさつ</p>
             <div class="column2 w800" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
               <div class="child03 text-center">
-                <img src="img/greeting.jpg" alt="沖本 彩" class="img-maru w_half_sp">
+                <img src="img/greeting.jpg" loading="lazy" alt="沖本 彩" class="img-maru w_half_sp">
               </div>
               <div class="child04">
                 <div class="txt textgroup">
@@ -69,7 +69,7 @@
       <section class="background-round">
         <div class="background-round__inner">
           <div class="section-container type1">
-            <h2 class="title-image type2 text-center"><img src="img/title_works.png" alt="実績一覧"></h2>
+            <h2 class="title-image type2 text-center"><img src="img/title_works.png" loading="lazy" alt="実績一覧"></h2>
             <p class="b-m60 text-center_pc">
               本ページに掲載されているサイトは、ポートフォリオ用に作成したサンプルサイトです。<br>現在の職務における制作物については、守秘義務の観点から掲載は控えておりますため、<br
                 class="pcbr">デザインやコーディングスキルをお伝えする目的で、実際のサイトに近い形で独自に作成したサンプルを掲載しています。
@@ -81,8 +81,8 @@
               <div class="column2 column2-img chosei2">
                 <div class="child01 child-img">
                   <div class="item-img">
-                    <a href="img/works01.png" rel="lightbox[photo]">
-                      <img src="img/works01.png" alt="A社様事例 人材育成支援サイト">
+                    <a href="img/works01.png" loading="lazy" rel="lightbox[photo]">
+                      <img src="img/works01.png" loading="lazy" alt="A社様事例 人材育成支援サイト">
                       <p class="tcenter">※実際に制作したサイトを再現する形で<br>サンプルサイトを作成しました。</p>
                     </a>
                   </div>
@@ -168,8 +168,8 @@
                 </div>
                 <div class="child child-img">
                   <div class="item-img">
-                    <a href="img/works02.png" rel="lightbox[photo]">
-                      <img src="img/works02.png" alt="一般社団法人B様事例 子ども食堂サイト">
+                    <a href="img/works02.png" loading="lazy" rel="lightbox[photo]">
+                      <img src="img/works02.png" loading="lazy" alt="一般社団法人B様事例 子ども食堂サイト">
                       <p class="tcenter">※実際のサイトを再現する形で<br>サンプルサイトを作成しました。</p>
                     </a>
                   </div>
@@ -284,24 +284,24 @@
       <a id="a03"></a>
       <section>
         <div class="section-container">
-          <h2 class="title-image type2 text-center"><img src="img/title_skills.png" alt="スキル一覧"></h2>
+          <h2 class="title-image type2 text-center"><img src="img/title_skills.png" loading="lazy" alt="スキル一覧"></h2>
 
           <div class="box1" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
             <h2 class="stitle_eng"><span>Technique</span><span class="line"></span></h2>
             <h3 class="mtext2 chosei3">技術スキル</h3>
             <ul class="sub_box b-m40">
               <li>
-                <p class="icon"><img src="img/icon01_2.png" alt="HTML/CSS,Sass"></p>
+                <p class="icon"><img src="img/icon01_2.png" loading="lazy" alt="HTML/CSS,Sass"></p>
                 <p class="ttl">HTML/CSS,Sass</p>
                 <p class="txt">セマンティックなマークアップ対応・レスポンシブ・アニメーション対応</p>
               </li>
               <li>
-                <p class="icon"><img src="img/icon03.png" alt=""></p>
+                <p class="icon"><img src="img/icon03.png" loading="lazy" alt=""></p>
                 <p class="ttl">CSS設計</p>
                 <p class="txt">簡潔さ、再利用性の高さを担保したコーディング・BEMやFLOCSSを用いたCSS設計</p>
               </li>
               <li>
-                <p class="icon"><img src="img/icon04.png" alt=""></p>
+                <p class="icon"><img src="img/icon04.png" loading="lazy" alt=""></p>
                 <p class="ttl">UI/UXデザイン</p>
                 <p class="txt">課題解決型のデザイン提案・PhotoshopやFigmaを用いた画面デザイン（ワイヤーフレーム）の作成</p>
               </li>
@@ -328,7 +328,7 @@
               <li><span class="color1 bold mtext1">Cursor</span><br>アシスト機能を活用し、効率的な作業が可能</li>
               <li><span class="color1 bold mtext1">Photoshop</span><br>基本的な編集とデザイン制作が可能</li>
               <li><span class="color1 bold mtext1">Illustrator</span><br>簡単なロゴや図形作成が可能</li>
-              <li><span class="color1 bold mtext1">Figma</span><br>簡単なプロトタイプ作成や共同作業が可能</li>
+              <li><span class="color1 bold mtext1">Figma,Miro,Notion</span><br>簡単なワイヤーフレームの作成や共同作業が可能</li>
               <li><span class="color1 bold mtext1">Git</span><br>コマンドラインでの操作、基本的なブランチ管理が可能</li>
             </ul>
             <i class="kiritori kiritori_mini"></i>
@@ -346,7 +346,7 @@
               <li>プレゼンテーション</li>
             </ul>
             <!-- <div class="text-center t-m40">
-              <img src="img/bnr_works.jpg" alt="ロゴ・バナーの作成例はこちら" class="img-r">
+              <img src="img/bnr_works.jpg" loading="lazy" alt="ロゴ・バナーの作成例はこちら" class="img-r">
             </div> -->
             <div class="content-box transparent">
               <h3 class="mtitle-bll">ロゴ・バナー作成例</h3>
@@ -379,7 +379,7 @@
         <div class="background-round__inner background-ashirai type2">
           <div class="section-container">
             <div class="content-box transparent">
-              <h2 class="title-image type2 text-center"><img src="img/title_about.png" alt="私について"></h2>
+              <h2 class="title-image type2 text-center"><img src="img/title_about.png" loading="lazy" alt="私について"></h2>
               <div class="cont01 content-box transparent animation slideup">
                 <div class="cont01_img">
                   <p class="img-f img01"><img src="img/about01.webp" alt="沖縄の海を背景に笑う２匹のシーサー"></p>
@@ -414,13 +414,76 @@
             </div>
             <div class="content-box shadow animation slideup">
               <h3 class="mtitle_box">経歴</h3>
-              <ul class="list_disc">
-                <li>大学進学まで沖縄県那覇市に生まれ育つ。</li>
-                <li>明治大学政治経済学部に入学。<br>在学中にカナダとアメリカへ約1年間の留学を経験し、異文化理解とコミュニケーションスキルを磨く。</li>
-                <li>新卒でジョンソン・エンド・ジョンソングループの医薬品部門、ヤンセンファーマ株式会社に入社。MR（医薬情報担当者）として2年間勤務し、医師や医療従事者に対して自社医薬品の情報提供や提案を行い、専門的な知識と高い提案力を習得。</li>
-                <li>その後、転職しインサイドセールスを1年間担当。<br>顧客とのコミュニケーションを通じて課題を把握し、最適なソリューションを提案する営業スキルを磨く。</li>
-                <li>Webデザインとコーディングに興味を持ち、独学および職業訓練を通じてスキルを習得。<br>UI/UXデザインにも関心を持ち、ユーザー視点を意識した設計を学ぶ。</li>
-                <li>現在はWeb制作会社に2年以上勤務し、これまでに約100件のWebサイト制作を担当。<br>新規サイトのデザイン・コーディングだけでなく、月に約200件のサイト保守・運用業務も手がけ、改善提案やSEO対策の実施など、Webサイトの継続的な価値向上に貢献している。</li>
+              <dl class="history t-m30">
+                <div class="history-inner">
+                  <dt>
+                    平成4年 <span>1992</span>〜平成28年<span>2016</span>
+                  </dt>
+                  <dd>
+                    大学進学まで沖縄県那覇市に生まれ育つ。<br>明治大学政治経済学部に入学。<br>在学中にカナダとアメリカへ約1年間の留学を経験し、異文化理解とコミュニケーションスキルを磨く。
+                  </dd>
+                </div>
+                <div class="history-inner">
+                  <dt>
+                    〜平成30年<span>2018</span>
+                  </dt>
+                  <dd>
+                    新卒でジョンソン・エンド・ジョンソングループの医薬品部門、ヤンセンファーマ株式会社に入社。<br>
+                    MR（医薬情報担当者）として勤務し、医師や医療従事者に対して自社医薬品の情報提供や提案を行い、専門的な知識と高い提案力を習得。
+                  </dd>
+                </div>
+                <div class="history-inner">
+                  <dt>
+                    〜令和3年<span>2021</span>
+                  </dt>
+                  <dd>
+                    転職し、インサイドセールスを1年間担当。<br>
+                    顧客とのコミュニケーションを通じて課題を把握し、最適なソリューションを提案する営業スキルを磨く。<br>
+                    その後、キャリアの幅を広げるため事務職へ転職し、企業の総務として多岐にわたる業務を経験。<br>
+                   業務効率化のための仕組みづくりや、細やかな調整力を活かしたサポート業務を通じて、社内の潤滑油としての役割を果たす。
+                  </dd>
+                </div>
+
+                <div class="history-inner">
+                  <dt>
+                    〜令和4年<span>2022</span>
+                  </dt>
+                  <dd>
+                    Webデザインとコーディングに興味を持ち、独学および職業訓練を通じてスキルを習得。<br>UI/UXデザインにも関心を持ち、ユーザー視点を意識した設計を学ぶ。
+                  </dd>
+                </div>
+                <div class="history-inner">
+                  <dt>
+                    〜現在
+                  </dt>
+                  <dd>
+                    Web制作会社に2年以上勤務し、これまでに約100件のWebサイト制作を担当。<br>
+                    新規サイト制作だけでなく、月に約200件のサイト保守・運用業務も手がけ、改善提案やSEO対策の実施など、Webサイトの継続的な価値向上に貢献している。
+                  </dd>
+                </div>
+              </dl>
+
+              <ul class="gallery t-m50">
+                <li>
+                  <a href="img/career01.jpg" data-lightbox="gallery">
+                    <img src="img/career01.jpg" alt="">
+                  </a>
+                </li>
+                <li>
+                  <a href="img/career02.jpg" data-lightbox="gallery">
+                    <img src="img/career02.jpg" alt="">
+                  </a>
+                </li>
+                <li>
+                  <a href="img/career03.jpg" data-lightbox="gallery">
+                    <img src="img/career03.jpg" alt="">
+                  </a>
+                </li>
+                <li>
+                  <a href="img/career04.jpg" data-lightbox="gallery">
+                    <img src="img/career04.jpg" alt="">
+                  </a>
+                </li>
               </ul>
 
             </div>
@@ -446,7 +509,7 @@
               </ol>
             </div>
             <p class="text-center t-m50 animation slideup">
-              <img src="img/last_sentence.png" alt="最後までお読みいただき、ありがとうございました。お会いできることを楽しみにしています！！">
+              <img src="img/last_sentence.png" loading="lazy" alt="最後までお読みいただき、ありがとうございました。お会いできることを楽しみにしています！！">
             </p>
           </div>
         </div>
@@ -455,7 +518,7 @@
       <section>
         <div class="section-container">
           <div class="content-box transparent animation slideup">
-            <h2 class="title-image type2 text-center"><img src="img/title_contact.png" alt="お問い合わせ"></h2>
+            <h2 class="title-image type2 text-center"><img src="img/title_contact.png" loading="lazy" alt="お問い合わせ"></h2>
 
             <div class="content-box">
               <p class="b-m40 text-center_pc">お問い合わせやご連絡は、電話またはメールにてお気軽にご連絡ください。</p>

@@ -1906,6 +1906,7 @@ h4 {
       top: -80%;
       transform: scale(-1, -1);
       width: 60%;
+      height: 88%;
     }
   }
 
@@ -1924,7 +1925,7 @@ h4 {
 
     &.type2 {
       &:before {
-        top: -75%;
+        top: -85%;
         width: 95%;
       }
     }
@@ -2730,113 +2731,114 @@ h4 {
 }
 
 .button01 {
-	a {
-		width: 260px;
-		margin: 40px auto 20px;
-		color: #fff;
-		display: block;
-		padding: 20px 30px;
-		border: 1px solid $base_color;
+  a {
+    width: 260px;
+    margin: 40px auto 20px;
+    color: #fff;
+    display: block;
+    padding: 20px 30px;
+    border: 1px solid $base_color;
     background: $base_color;
-		border-radius: 35px;
-		font-weight: bold;
-		position: relative;
-		font-size: 1.5rem;
+    border-radius: 35px;
+    font-weight: bold;
+    position: relative;
+    font-size: 1.5rem;
 
-		&::after {
-			// content: "●";
+    &::after {
+      // content: "●";
       @include awesome(\f192);
-			position: absolute;
-			right: 30px;
-			top: 50%;
-			transform: translateY(-50%);
-			font-size: 1rem;
-			transition: all 0.5s ease;
-			color: #fff;
-		}
+      position: absolute;
+      right: 30px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1rem;
+      transition: all 0.5s ease;
+      color: #fff;
+    }
 
-		&:hover {
-			background: #fff;
-			color: $base_color;
+    &:hover {
+      background: #fff;
+      color: $base_color;
 
-			&::after {
-				right: 20px;
-				color: $base_color;
-			}
-		}
-	}
+      &::after {
+        right: 20px;
+        color: $base_color;
+      }
+    }
+  }
 
-	&.type1 {
-		background: $sub_color;
-		border: 2px solid $sub_color;
+  &.type1 {
+    background: $sub_color;
+    border: 2px solid $sub_color;
 
-		&:hover {
-			background: #fff;
-			color: $sub_color;
-		}
-	}
+    &:hover {
+      background: #fff;
+      color: $sub_color;
+    }
+  }
 
-	&.type2 {
-		a {
-			color: $txt;
-			border: none;
-			background: #fff;
+  &.type2 {
+    a {
+      color: $txt;
+      border: none;
+      background: #fff;
 
-			&:hover {
-				opacity: 0.6;
-			}
-		}
-	}
+      &:hover {
+        opacity: 0.6;
+      }
+    }
+  }
 
-	&.mail {
-		flex-basis: 100%;
+  &.mail {
+    flex-basis: 100%;
 
-		a {
-			background: $sub_color;
-			margin: 15px auto 25px;
+    a {
+      background: $sub_color;
+      margin: 15px auto 25px;
 
-			&:before {
-				@include awesome($mail);
-				margin-right: 5px;
-			}
-		}
-	}
+      &:before {
+        @include awesome($mail);
+        margin-right: 5px;
+      }
+    }
+  }
 
-	&.left {
-		a {
-			margin-left: 0;
-		}
-	}
+  &.left {
+    a {
+      margin-left: 0;
+    }
+  }
 
-	&.white {
-		a {
-			background: #fff;
-			border: 1px solid #fff;
+  &.white {
+    a {
+      background: #fff;
+      border: 1px solid #fff;
 
-			&:hover {
-				color: $txt;
-				&::after {
-					color: $base_color;
-				}
-			}
-		}
-	}
+      &:hover {
+        color: $txt;
 
-	@include for-size(phone-only) {
-		a {
-			width: 95%;
-			font-size: 1rem;
-			padding: 15px 30px;
+        &::after {
+          color: $base_color;
+        }
+      }
+    }
+  }
+
+  @include for-size(phone-only) {
+    a {
+      width: 95%;
+      font-size: 1rem;
+      padding: 15px 30px;
       margin: unset;
       margin-inline: auto;
-		}
+    }
 
-		&.left {
-			a {
-				margin-left: auto;
-			}
-		}
-	}
+    &.left {
+      a {
+        margin-left: auto;
+      }
+    }
+  }
 }
 
 .button02 {
@@ -3361,7 +3363,7 @@ h4 {
       background: $base_color;
       padding: 12px 8px 12px 24px;
       color: #fff;
-      font-size:  unset;
+      font-size: unset;
       font-weight: normal;
       color: #111;
     }
@@ -3432,8 +3434,9 @@ h4 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 5px 20px;
+
     li {
-      font-size:  unset;
+      font-size: unset;
       font-weight: normal;
       color: #111;
     }
@@ -4193,7 +4196,7 @@ h4 {
 /*photoギャラリー*/
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 30px 3%;
 
   @include for-size(phone-only) {
@@ -4837,6 +4840,7 @@ h4 {
     max-width: 800px;
     width: 100%;
     margin-inline: auto;
+
     @include for-size(tablet) {
       max-width: 400px;
     }
@@ -5070,6 +5074,7 @@ h4 {
     padding-right: 10px;
   }
 }
+
 .js-marker {
   line-height: 2;
 
@@ -5495,6 +5500,98 @@ h4 {
   .ja {
     font-weight: 600;
     font-size: 1.15em;
+  }
+}
+
+.history {
+  position: relative;
+
+  &:before {
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 0;
+    width: 20px;
+    height: 100%;
+    background-image: linear-gradient(to top, $base_color, $sub_color);
+    opacity: .7;
+    border-radius: 20px;
+  }
+
+  .history-inner {
+    position: relative;
+    padding-left: 70px;
+
+    &:before {
+      position: absolute;
+      content: '';
+      left: 12px;
+      top: 15px;
+      width: 40px;
+      height: 1px;
+      background: $base_color;
+    }
+
+    &:after {
+      position: absolute;
+      content: '';
+      left: 6px;
+      top: 10px;
+      width: 10px;
+      height: 10px;
+      background: $base_color;
+      border-radius: 50%;
+    }
+
+    @include for-size(phone-only) {
+      padding-left: 45px;
+
+      &:before {
+        width: 25px;
+      }
+    }
+
+    &:not(:last-of-type) {
+      margin-bottom: 20px;
+      border-bottom: 1px solid rgba(#aaa, .5);
+    }
+
+    dt {
+      font-weight: 600;
+      color: $base_color;
+      font-size: 1.15em;
+
+      span {
+        font-size: 1.5rem;
+        padding: 0 3px;
+
+        &:before {
+          content: "(";
+        }
+
+        &:after {
+          content: ")";
+        }
+      }
+
+      @include for-size(phone-only) {
+        font-size: 1.2em;
+
+        span {
+          font-size: 1.1rem;
+        }
+      }
+    }
+
+    dd {
+      padding: 14px 18px;
+
+      @include for-size(phone-only) {
+        padding: 12px;
+
+
+      }
+    }
   }
 }
 

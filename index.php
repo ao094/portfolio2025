@@ -71,8 +71,8 @@
           <div class="section-container type1">
             <h2 class="title-image type2 text-center"><img src="img/title_works.png" loading="lazy" alt="実績一覧"></h2>
             <p class="b-m60 text-center_pc">
-              本ページに掲載されているサイトは、ポートフォリオ用に作成したサンプルサイトです。<br>現在の職務における制作物については、守秘義務の観点から掲載は控えておりますため、<br
-                class="pcbr">デザインやコーディングスキルをお伝えする目的で、実際のサイトに近い形で独自に作成したサンプルを掲載しています。
+              本ページに掲載しているサイトは、実際にお客様からご依頼いただき制作した実績です。<br>
+              守秘義務の関係で一部情報を加工している場合がありますが、デザインや構成、コーディング等はすべて実務に基づいています。
             </p>
 
             <div class="content-box transparent" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
@@ -81,9 +81,8 @@
               <div class="column2 column2-img chosei2">
                 <div class="child01 child-img">
                   <div class="item-img">
-                    <a href="img/works01.png" loading="lazy" rel="lightbox[photo]">
-                      <img src="img/works01.png" loading="lazy" alt="A社様事例 人材育成支援サイト">
-                      <p class="tcenter">※実際に制作したサイトを再現する形で<br>サンプルサイトを作成しました。</p>
+                    <a href="img/works01.webp" loading="lazy" rel="lightbox[photo]">
+                      <img src="img/works01.webp" loading="lazy" alt="A社様事例 人材育成支援サイト">
                     </a>
                   </div>
                 </div>
@@ -104,22 +103,23 @@
                 <div class="child t-m20">
                   <p class="mtitle_box">お客様のニーズ</p>
                   <ul class="list_disc">
-                    <li>自作の簡易Webサイトを運営していたが、人材育成支援事業のブランディングに合わせ、<span class="bold">スタイリッシュでプロフェッショナルなデザイン</span>へリニューアルしたい</li>
-                    <li>自作サイト上での商材説明が難しいため、情報を整理して、コンテンツを掲載してほしい</li>
+                    <li>自作の簡易Webサイトを運営していたが、人材育成支援事業のブランディングに合わせ、<span class="bold">スタイリッシュかつプロフェッショナルなデザイン</span>へリニューアルしたい</li>
+                    <li>自作サイトでは商材の魅力を十分に伝えきれなかったため、情報の整理とコンテンツ設計をしてほしい</li>
                     <li>ブランディングカラーの赤を使用したい</li>
                     <li>見る人の目に止まるような面白い動きが欲しい</li>
                   </ul>
                 </div>
                 <div class="child t-m20">
                   <p class="mtitle_box">担当範囲</p>
-                  <ul class="list_check2 type1 t-m20">
-                    <li>お客様への取材</li>
-                    <li>デザイン構想</li>
-                    <li>コンテンツ作成</li>
-                    <li>ライティング</li>
-                    <li>コーディング</li>
-                    <li>UX改善</li>
-                    <li>サイトの公開対応</li>
+                  <p class="mtitle_sub"></p>
+                  <ul class="list_check2 t-m20">
+                    <li>お客様への取材（営業担当と2名で対応）</li>
+                    <li>デザイン構想（単独）</li>
+                    <li>コンテンツ作成（単独）</li>
+                    <li>ライティング（単独）</li>
+                    <li>コーディング(HTML,CSS,JS,PHP,GSAP)（単独）</li>
+                    <li>UX改善（単独）</li>
+                    <li>サイトの公開対応（単独）</li>
                   </ul>
                 </div>
                 <div class="child t-m20">
@@ -138,144 +138,69 @@
                 </div>
               </div>
 
-              <p class="mini color1 text-center">制作時間：29時間51分</p>
+              <p class="mini color1 text-center">制作時間：28時間51分</p>
             </div>
             <ul class="list2 jc-center type_width_s">
               <li>
-                <p class="button01"><a href="https://ver2025-sample01.ayaokimotoportfolio.com/?<?= time() ?>" target="_blank"
-                    rel="nofollow noopener">サンプルサイトはこちら</a></p>
+                <p class="button01"><a href="https://www.kstk.jp/?<?= time() ?>" target="_blank"
+                    rel="nofollow noopener">実際のサイトはこちら</a></p>
               </li>
               <li>
                 <p class="button01"><a href="https://github.com/ao094/2025sample01" target="_blank"
-                    rel="nofollow noopener">ソースコードはこちら</a></p>
+                    rel="nofollow noopener">全体レイアウトを見る</a></p>
               </li>
             </ul>
 
           </div>
+          
           <i class="kiritori kiritori_mini"></i>
-          <div class="section-container">
-            <div class="content-box" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
-              <h2 class="stitle_eng center"><span>Works 02</span><span class="line"></span></h2>
-              <h3 class="mtext2 text-center chosei3">一般社団法人B様事例 子ども食堂サイト</h3>
-              <div class="column2 column2-img chosei2">
-                <div class="child textgroup">
-                  <p class="mtitle_small">概要</p>
-                  <p>
-                    クライアントは「温かみ」と「親しみやすさ」を重視したデザインを希望されておりました。</p>
-                  <p><span class="bold">元気いっぱいの子どもを連想させるオレンジ</span>を基調とした柔らかいデザインにしつつ、<span class="bold">視覚的に楽しめるイラストを多用</span>し、大人にも子どもにも親しみやすいUIを構築しました。</p>
-                  <p class="js-marker">「<span class="bold">誰でも簡単に情報を見つけられるサイト</span>」を目指しました。</p>
 
-                </div>
-                <div class="child child-img">
-                  <div class="item-img">
-                    <a href="img/works02.png" loading="lazy" rel="lightbox[photo]">
-                      <img src="img/works02.png" loading="lazy" alt="一般社団法人B様事例 子ども食堂サイト">
-                      <p class="tcenter">※実際のサイトを再現する形で<br>サンプルサイトを作成しました。</p>
-                    </a>
-                  </div>
-                </div>
-              </div>
+            <div class="text-center t-m40">
+              <a href="https://www.notion.so/1d9deaea56828070a996ee08552dfa12?pvs=4" target="_blank" rel="nofollow noopener"><img src="img/bnr_works2.jpg" loading="lazy" alt="その他の作品はこちら サイト・デザインカンプ・ロゴ・バナー" class="img-r fuwafuwa-scale"></a>
             </div>
 
-            <div class="content-box3 type1 chosei2">
-              <p class="text-center_pc mtext1">
-                ※ 本サンプルサイトは、実際に制作したサイトを再現したものです。<br>
-                以下の情報は、元となった実案件での詳細情報です。
-              </p>
-              <div class="column2 tp">
-                <div class="child t-m20">
-                  <p class="mtitle_box">お客様のニーズ</p>
-                  <ul class="list_disc">
-                    <li>子ども食堂の存在を周知するため、Webサイトを新規制作したい</li>
-                    <li>子どもたちへの利用促進と支援者・ボランティアへの呼びかけを行いたい</li>
-                    <li>温かみと親しみやすさを重視したデザインにしたい</li>
-                  </ul>
-
-                </div>
-                <div class="child t-m20">
-                  <p class="mtitle_box">担当範囲</p>
-                  <ul class="list_check2 type1 t-m20">
-                    <li>デザイン構想</li>
-                    <li>ライティング</li>
-                    <li>コーディング</li>
-                    <li>UX改善</li>
-                    <li>サイトの公開対応</li>
-                  </ul>
-                </div>
-                <div class="child t-m20">
-                  <p class="mtitle_box">デザインとユーザー体験</p>
-                  <ul class="list_disc">
-                    <li>子どもでも直感的に操作できるシンプルなUI設計</li>
-                    <li>施設の情報や支援内容が一目で分かる<span class="bold">アイコン＋カード型レイアウト</span></li>
-                    <li><span class="bold">「やさしさ」を意識した丸みのあるフォントやイラスト</span>を利用し、問い合わせへのハードルを低くするデザインを意識</li>
-                  </ul>
-                </div>
-                <div class="child t-m20">
-                  <p class="mtitle_box">成果と評価</p>
-                  <ul class="list_disc">
-                    <li>クライアントから「イメージ通りのデザイン！」と好評</li>
-                    <li>サイト公開後、サイトを通じて支援者やボランティアスタッフからの問い合わせあり</li>
-                  </ul>
-                </div>
-              </div>
-
-              <p class="mini color1 text-center">制作時間：10時間</p>
-            </div>
-
-            <ul class="list2 jc-center type_width_s">
-              <li>
-                <p class="button01"><a href="https://ohisama-terrace.ayaokimotoportfolio.com/?<?= time() ?>"
-                    target="_blank" rel="nofollow noopener">サンプルサイトはこちら</a></p>
-              </li>
-              <li>
-                <p class="button01"><a href="https://github.com/ao094/2025sample02" target="_blank"
-                    rel="nofollow noopener">ソースコードはこちら</a></p>
-              </li>
-            </ul>
-
-          </div>
-          <i class="kiritori kiritori_mini"></i>
           <div class="section-container" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
             <h3 class="mtitle_balloon center"><span>その他、幅広いジャンルの<br class="spbr">サイト制作実績があります！<i></i></span></h3>
             <p class="mtext-top">これまでに<span>約100件</span>の<br class="spbr">コーポレートサイト<br class="spbr">制作実績がございます。</p>
             <div class="content-box3 type1 t-m20">
               <ul class="list-inline">
-                <li>不動産</li>
-                <li>建築</li>
-                <li>土木建築</li>
+                <li><a href="https://www.tokushima-kanteishi.or.jp/" target="_blank" rel="nofollow noopener">不動産</a></li>
+                <li><a href="https://www.j-realize.jp/" target="_blank" rel="nofollow noopener">板金</a></li>
+                <li><a href="https://www.hattakenchiku.jp/" target="_blank" rel="nofollow noopener">建築</a></li>
+                <li><a href="https://www.kn-tekkin.com/" target="_blank" rel="nofollow noopener">土木建築</a></li>
                 <li>建築設計事務所</li>
-                <li>土木工業</li>
-                <li>訪問看護ステーション</li>
-                <li>介護事業</li>
-                <li>デイサービス</li>
-                <li>病院</li>
+                <li><a href="https://www.basis-first.com/" target="_blank" rel="nofollow noopener">訪問看護ステーション</a></li>
+                <li><a href="https://www.shikisai-oita.com/" target="_blank" rel="nofollow noopener">介護事業</a></li>
+                <li><a href="https://www.lifeact-llc.com/" target="_blank" rel="nofollow noopener">デイサービス</a></li>
+                <li><a href="https://www.mikamotanakahp.jp/" target="_blank" rel="nofollow noopener">病院</a></li>
                 <li>保育園</li>
-                <li>イングリッシュスクール</li>
-                <li>学習塾</li>
-                <li>テニススクール</li>
+                <li><a href="https://www.c-kids-world.com/" target="_blank" rel="nofollow noopener">イングリッシュスクール</a></li>
+                <li><a href="https://www.manabu-club.com/" target="_blank" rel="nofollow noopener">学習塾</a></li>
+                <li><a href="https://www.rw-rabbit.com/" target="_blank" rel="nofollow noopener">テニススクール</a></li>
                 <li>シュミレーションゴルフ</li>
                 <li>民宿</li>
                 <li>ホテル</li>
-                <li>レンタカー</li>
-                <li>タクシー</li>
+                <li><a href="https://www.zenryurentacar.com/" target="_blank" rel="nofollow noopener">レンタカー</a></li>
+                <li><a href="https://www.yuunataxi.com/" target="_blank" rel="nofollow noopener">タクシー</a></li>
                 <li>運輸</li>
                 <li>流通</li>
                 <li>コンサルティング</li>
-                <li>特定技能外国人と企業の支援組合</li>
-                <li>税理士法人</li>
-                <li>小売</li>
-                <li>結婚式場</li>
-                <li>美容室</li>
-                <li>整体</li>
-                <li>スポーツジム</li>
-                <li>飲食店</li>
-                <li>農家</li>
-                <li>子供食堂</li>
-                <li>陶芸</li>
-                <li>クリーニング</li>
-                <li>牧場　など</li>
+                <li><a href="https://www.you-rs.net/" target="_blank" rel="nofollow noopener">特定技能外国人と企業の支援組合</a></li>
+                <li><a href="https://www.miraiz-tax.jp/" target="_blank" rel="nofollow noopener">税理士法人</a></li>
+                <li><a href="https://www.minato-kaisou.com/" target="_blank" rel="nofollow noopener">小売</a></li>
+                <li><a href="https://www.lairsacre.com/" target="_blank" rel="nofollow noopener">結婚式場</a></li>
+                <li><a href="https://www.soi-ltd.jp/" target="_blank" rel="nofollow noopener">美容室</a></li>
+                <li><a href="https://www.smw-nakaima.net/" target="_blank" rel="nofollow noopener">整体</a></li>
+                <li><a href="https://www.sanukigym.jp/" target="_blank" rel="nofollow noopener">スポーツジム</a></li>
+                <li><a href="https://www.sumibiyakitori-shin.net/" target="_blank" rel="nofollow noopener">飲食店</a></li>
+                <li><a href="https://www.maeda-farm.jp/" target="_blank" rel="nofollow noopener">農家</a></li>
+                <li><a href="https://www.senemontobo.com/" target="_blank" rel="nofollow noopener">陶芸</a></li>
+                <li><a href="https://www.houlinji.com/" target="_blank" rel="nofollow noopener">寺院</a></li>
+                <li><a href="https://www.a-top-cleaning.com/" target="_blank" rel="nofollow noopener">クリーニング</a></li>
+                <li><a href="https://www.akamatsubokujyo.com/" target="_blank" rel="nofollow noopener">牧場</a></li>
+                <li><a href="https://www.harviashizuoka.jp/" target="_blank" rel="nofollow noopener">サウナディーラー</a></li>
+                <li>など</li>
               </ul>
-
             </div>
           </div>
         </div>
@@ -322,14 +247,14 @@
             </ul>
             <i class="kiritori kiritori_mini"></i>
             <h2 class="stitle_eng"><span>Tools</span><span class="line"></span></h2>
-            <h3 class="mtext2 chosei3">使用ツール</h3>
+            <h3 class="mtext2 chosei3">使用ツールと習熟度</h3>
             <ul class="list_check2 type1">
-              <li><span class="color1 bold mtext1">VSCode</span><br>日常的に使用、設定やショートカットに慣れている</li>
-              <li><span class="color1 bold mtext1">Cursor</span><br>アシスト機能を活用し、効率的な作業が可能</li>
-              <li><span class="color1 bold mtext1">Photoshop</span><br>基本的な編集とデザイン制作が可能</li>
-              <li><span class="color1 bold mtext1">Illustrator</span><br>簡単なロゴや図形作成が可能</li>
-              <li><span class="color1 bold mtext1">Figma,Miro,Notion</span><br>簡単なワイヤーフレームの作成や共同作業が可能</li>
-              <li><span class="color1 bold mtext1">Git</span><br>コマンドラインでの操作、基本的なブランチ管理が可能</li>
+              <li><span class="color1 bold mtext1">VSCode</span><br>日常的に使用、設定やショートカットxに慣れている</li>
+              <li><span class="color1 bold mtext1">Cursor</span><br>アシスト機能を活用し、効率的な作業可能</li>
+              <li><span class="color1 bold mtext1">Photoshop,Illustrator</span><br>基本的編集・加工機能を使用したロゴ・バナーなどのデザイン制作</li>
+              <li><span class="color1 bold mtext1">Figma,Miro,Notion</span><br>ワイヤーフレーム・カンプの作成や共同作業</li>
+              <li><span class="color1 bold mtext1">Git</span><br>コマンドラインでの操作、基本的なブランチ管理</li>
+              <li><span class="color1 bold mtext1">各種コミュニケーションツール</span><br>LINE WORKS, Slack, Discord, Zoom, Google Workspace</li>
             </ul>
             <i class="kiritori kiritori_mini"></i>
             <h2 class="stitle_eng"><span>Others</span><span class="line"></span></h2>
@@ -345,9 +270,6 @@
               <li>チームマネジメント（5人程度のチームリーダー経験）</li>
               <li>プレゼンテーション</li>
             </ul>
-            <!-- <div class="text-center t-m40">
-              <img src="img/bnr_works.jpg" loading="lazy" alt="ロゴ・バナーの作成例はこちら" class="img-r">
-            </div> -->
             <div class="content-box transparent">
               <h3 class="mtitle-bll">ロゴ・バナー作成例</h3>
 
@@ -440,7 +362,7 @@
                     転職し、インサイドセールスを1年間担当。<br>
                     顧客とのコミュニケーションを通じて課題を把握し、最適なソリューションを提案する営業スキルを磨く。<br>
                     その後、キャリアの幅を広げるため事務職へ転職し、企業の総務として多岐にわたる業務を経験。<br>
-                   業務効率化のための仕組みづくりや、細やかな調整力を活かしたサポート業務を通じて、社内の潤滑油としての役割を果たす。
+                    業務効率化のための仕組みづくりや、細やかな調整力を活かしたサポート業務を通じて、社内の潤滑油としての役割を果たす。
                   </dd>
                 </div>
 
@@ -457,7 +379,7 @@
                     〜現在
                   </dt>
                   <dd>
-                    Web制作会社に2年以上勤務し、これまでに約100件のWebサイト制作を担当。<br>
+                    Web制作会社に約2年半勤務し、これまでに約100件のWebサイト制作を担当。<br>
                     新規サイト制作だけでなく、月に約200件のサイト保守・運用業務も手がけ、改善提案やSEO対策の実施など、Webサイトの継続的な価値向上に貢献している。
                   </dd>
                 </div>

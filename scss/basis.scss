@@ -313,6 +313,21 @@ h4 {
   }
 }
 
+.fuwafuwa-scale {
+  animation: fuwafuwaScale 3s ease-in-out infinite;
+  display: inline-block;
+  transform-origin: center center;
+}
+
+@keyframes fuwafuwaScale {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.9);
+  }
+}
+
 .loader {
   align-items: center;
   background: #fdfdfd;

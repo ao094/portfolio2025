@@ -89,16 +89,12 @@
                 <div class="child textgroup">
                   <p class="mtitle_small">概要</p>
 
-                  <p class="js-marker">スタイリッシュさを引き立てるよう、ベースカラーの黒に、ブランディングカラーの赤をアクセントに入れて構成しました。</p>
+                  <p class="js-marker">組織のイノベーションや人材活性化に関する研修を提供する企業のHPリニューアルを担当しました。</p>
                   <p class="js-marker"><span>目を引くデザイン</span>を意識しながら、ユーザーに負担をかけずに情報を伝えられるようにしつつ、適度なアニメーションを取り入れました。</p>
                 </div>
               </div>
             </div>
             <div class="content-box3 type1 chosei2">
-              <p class="text-center_pc mtext1">
-                ※ 本サンプルサイトは、実際に制作したサイトを再現したものです。<br>
-                以下の情報は、元となった実案件での詳細情報です。
-              </p>
               <div class="column2 tp">
                 <div class="child t-m20">
                   <p class="mtitle_box">お客様のニーズ</p>
@@ -140,17 +136,10 @@
 
               <p class="mini color1 text-center">制作時間：28時間51分</p>
             </div>
-            <ul class="list2 jc-center type_width_s">
-              <li>
-                <p class="button01"><a href="https://www.kstk.jp/?<?= time() ?>" target="_blank"
-                    rel="nofollow noopener">実際のサイトはこちら</a></p>
-              </li>
-              <li>
-                <p class="button01"><a href="https://github.com/ao094/2025sample01" target="_blank"
-                    rel="nofollow noopener">全体レイアウトを見る</a></p>
-              </li>
-            </ul>
-
+            <div class="text-center">
+            <p class="button01"><a href="https://www.kstk.jp/?<?= time() ?>" target="_blank"
+            rel="nofollow noopener">実際のサイトはこちら</a></p>
+            </div>
           </div>
           
           <i class="kiritori kiritori_mini"></i>
@@ -176,7 +165,7 @@
                 <li>保育園</li>
                 <li><a href="https://www.c-kids-world.com/" target="_blank" rel="nofollow noopener">イングリッシュスクール</a></li>
                 <li><a href="https://www.manabu-club.com/" target="_blank" rel="nofollow noopener">学習塾</a></li>
-                <li><a href="https://www.rw-rabbit.com/" target="_blank" rel="nofollow noopener">テニススクール</a></li>
+                <li><a href="https://www.rw-rabbit.com/" target="_blank" rel="nofollow noopener">テニスショップ</a></li>
                 <li>シュミレーションゴルフ</li>
                 <li>民宿</li>
                 <li>ホテル</li>

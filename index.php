@@ -143,13 +143,16 @@
           </div>
           
           <i class="kiritori kiritori_mini"></i>
-
+          <div class="content-box transparent">
             <div class="text-center t-m40">
-              <a href="https://www.notion.so/1d9deaea56828070a996ee08552dfa12?pvs=4" target="_blank" rel="nofollow noopener"><img src="img/bnr_works2.jpg" loading="lazy" alt="その他の作品はこちら サイト・デザインカンプ・ロゴ・バナー" class="img-r fuwafuwa-scale"></a>
+            <h3 class="mtitle_balloon center"><span>その他、幅広いジャンルの<br class="spbr">サイト制作実績があります！<i></i></span></h3>
+            <p class="mtitle4"><span><a href="https://www.notion.so/1d9deaea56828070a996ee08552dfa12?pvs=4" target="_blank" rel="nofollow noopener">その他の実績や制作カンプなどを<br class="spbr">ご覧いただけます</a></span></p>
+              <a href="https://www.notion.so/1d9deaea56828070a996ee08552dfa12?pvs=4" target="_blank" rel="nofollow noopener" class="t-m20"><img src="img/bnr_works2.jpg" loading="lazy" alt="その他の作品はこちら サイト・デザインカンプ・ロゴ・バナー" class="img-r fuwafuwa-scale"></a>
+            </div>
             </div>
 
           <div class="section-container" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
-            <h3 class="mtitle_balloon center"><span>その他、幅広いジャンルの<br class="spbr">サイト制作実績があります！<i></i></span></h3>
+            
             <p class="mtext-top">これまでに<span>約100件</span>の<br class="spbr">コーポレートサイト<br class="spbr">制作実績がございます。</p>
             <div class="content-box3 type1 t-m20">
               <ul class="list-inline">
@@ -238,7 +241,7 @@
             <h2 class="stitle_eng"><span>Tools</span><span class="line"></span></h2>
             <h3 class="mtext2 chosei3">使用ツールと習熟度</h3>
             <ul class="list_check2 type1">
-              <li><span class="color1 bold mtext1">VSCode</span><br>日常的に使用、設定やショートカットxに慣れている</li>
+              <li><span class="color1 bold mtext1">VSCode</span><br>日常的に使用、設定やショートカットに慣れている</li>
               <li><span class="color1 bold mtext1">Cursor</span><br>アシスト機能を活用し、効率的な作業可能</li>
               <li><span class="color1 bold mtext1">Photoshop,Illustrator</span><br>基本的編集・加工機能を使用したロゴ・バナーなどのデザイン制作</li>
               <li><span class="color1 bold mtext1">Figma,Miro,Notion</span><br>ワイヤーフレーム・カンプの作成や共同作業</li>

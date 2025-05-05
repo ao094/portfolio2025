@@ -29,7 +29,7 @@
     <div id="slide-wrap">
       <div id="slideshow">
         <div class="mv_img">
-          <img src="img/mv.png" loading="lazy" alt="想いをカタチに。沖本彩のポートフォリオ">
+          <img src="img/mv.png" loading="eager" alt="想いをカタチに。沖本彩のポートフォリオ">
         </div>
       </div>
     </div>
@@ -109,14 +109,15 @@
                   <p class="mtitle_box">担当範囲</p>
                   <p class="mtitle_sub"></p>
                   <ul class="list_check2 t-m20">
-                    <li>お客様への取材（営業担当と2名で対応）</li>
-                    <li>デザイン構想（単独）</li>
-                    <li>コンテンツ作成（単独）</li>
-                    <li>ライティング（単独）</li>
-                    <li>コーディング(HTML,CSS,JS,PHP,GSAP)（単独）</li>
-                    <li>UX改善（単独）</li>
-                    <li>サイトの公開対応（単独）</li>
+                    <li>お客様への取材</li>
+                    <li>デザイン構想</li>
+                    <li>コンテンツ作成</li>
+                    <li>ライティング</li>
+                    <li>コーディング(HTML,CSS,JS,PHP,GSAP)</li>
+                    <li>UX改善</li>
+                    <li>サイトの公開対応</li>
                   </ul>
+                  <p>※取材のみ営業担当と2名で対応、その他は単独作業</p>
                 </div>
                 <div class="child t-m20">
                   <p class="mtitle_box">ユーザー体験</p>
@@ -137,22 +138,22 @@
               <p class="mini color1 text-center">制作時間：28時間51分</p>
             </div>
             <div class="text-center">
-            <p class="button01"><a href="https://www.kstk.jp/?<?= time() ?>" target="_blank"
-            rel="nofollow noopener">実際のサイトはこちら</a></p>
+              <p class="button01"><a href="https://www.kstk.jp/?<?= time() ?>" target="_blank"
+                  rel="nofollow noopener">実際のサイトはこちら</a></p>
             </div>
           </div>
-          
-          <i class="kiritori kiritori_mini"></i>
+
+          <i class="kiritori"></i>
           <div class="content-box transparent">
             <div class="text-center t-m40">
-            <h3 class="mtitle_balloon center"><span>その他、幅広いジャンルの<br class="spbr">サイト制作実績があります！<i></i></span></h3>
-            <p class="mtitle4"><span><a href="https://www.notion.so/1d9deaea56828070a996ee08552dfa12?pvs=4" target="_blank" rel="nofollow noopener">その他の実績や制作カンプなどを<br class="spbr">ご覧いただけます</a></span></p>
+              <h3 class="mtitle_balloon center"><span>その他、幅広いジャンルの<br class="spbr">サイト制作実績があります！<i></i></span></h3>
+              <p class="mtitle4"><span><a href="https://www.notion.so/1d9deaea56828070a996ee08552dfa12?pvs=4" target="_blank" rel="nofollow noopener">その他の実績や制作カンプなどを<br class="spbr">ご覧いただけます</a></span></p>
               <a href="https://www.notion.so/1d9deaea56828070a996ee08552dfa12?pvs=4" target="_blank" rel="nofollow noopener" class="t-m20"><img src="img/bnr_works2.jpg" loading="lazy" alt="その他の作品はこちら サイト・デザインカンプ・ロゴ・バナー" class="img-r fuwafuwa-scale"></a>
             </div>
-            </div>
+          </div>
 
           <div class="section-container" data-aos="fade" data-aos-delay="400" data-aos-duration="800">
-            
+
             <p class="mtext-top">これまでに<span>約100件</span>の<br class="spbr">コーポレートサイト<br class="spbr">制作実績がございます。</p>
             <div class="content-box3 type1 t-m20">
               <ul class="list-inline">
@@ -185,7 +186,7 @@
                 <li><a href="https://www.smw-nakaima.net/" target="_blank" rel="nofollow noopener">整体</a></li>
                 <li><a href="https://www.sanukigym.jp/" target="_blank" rel="nofollow noopener">スポーツジム</a></li>
                 <li><a href="https://www.sumibiyakitori-shin.net/" target="_blank" rel="nofollow noopener">飲食店</a></li>
-                <li><a href="https://www.maeda-farm.jp/" target="_blank" rel="nofollow noopener">農家</a></li>
+                <li>農家</li>
                 <li><a href="https://www.senemontobo.com/" target="_blank" rel="nofollow noopener">陶芸</a></li>
                 <li><a href="https://www.houlinji.com/" target="_blank" rel="nofollow noopener">寺院</a></li>
                 <li><a href="https://www.a-top-cleaning.com/" target="_blank" rel="nofollow noopener">クリーニング</a></li>
@@ -237,18 +238,18 @@
               <li>データ入力(Excel)</li>
               <li>文書作成(Word)</li>
             </ul>
-            <i class="kiritori kiritori_mini"></i>
+            <i class="kiritori"></i>
             <h2 class="stitle_eng"><span>Tools</span><span class="line"></span></h2>
             <h3 class="mtext2 chosei3">使用ツールと習熟度</h3>
-            <ul class="list_check2 type1">
-              <li><span class="color1 bold mtext1">VSCode</span><br>日常的に使用、設定やショートカットに慣れている</li>
-              <li><span class="color1 bold mtext1">Cursor</span><br>アシスト機能を活用し、効率的な作業可能</li>
-              <li><span class="color1 bold mtext1">Photoshop,Illustrator</span><br>基本的編集・加工機能を使用したロゴ・バナーなどのデザイン制作</li>
-              <li><span class="color1 bold mtext1">Figma,Miro,Notion</span><br>ワイヤーフレーム・カンプの作成や共同作業</li>
-              <li><span class="color1 bold mtext1">Git</span><br>コマンドラインでの操作、基本的なブランチ管理</li>
-              <li><span class="color1 bold mtext1">各種コミュニケーションツール</span><br>LINE WORKS, Slack, Discord, Zoom, Google Workspace</li>
+            <ul class="list_common type1">
+              <li><span class="color1 bold mtext1"><i class="fas fa-code"></i> VSCode</span><br>日常的に使用、設定やショートカットに慣れている</li>
+              <li><span class="color1 bold mtext1"><i class="fas fa-code"></i> Cursor</span><br>アシスト機能を活用し、効率的な作業可能</li>
+              <li><span class="color1 bold mtext1"><i class="fas fa-palette"></i> Photoshop,Illustrator</span><br>基本的編集・加工機能を使用したロゴ・バナーなどのデザイン制作</li>
+              <li><span class="color1 bold mtext1"><i class="fas fa-palette"></i> Figma,Miro,Notion</span><br>ワイヤーフレーム・カンプの作成や共同作業/Notionは情報設計やナビゲーション設計にも対応可能</li>
+              <li><span class="color1 bold mtext1"><i class="fab fa-github"></i> Git</span><br>コマンドラインでの操作、基本的なブランチ管理</li>
+              <li><span class="color1 bold mtext1"><i class="far fa-comments"></i> 各種コミュニケーションツール</span><br>LINE WORKS, Slack, Discord, Zoom, Google Workspace</li>
             </ul>
-            <i class="kiritori kiritori_mini"></i>
+            <i class="kiritori"></i>
             <h2 class="stitle_eng"><span>Others</span><span class="line"></span></h2>
             <h3 class="mtext2 chosei3">その他スキル</h3>
             <ul class="list_check2 type1">
@@ -256,12 +257,13 @@
               <li>クライアントからの要望ヒアリングと提案</li>
               <li>他部署との調整業務・社内連携</li>
               <li>基本的英会話（TOEIC880程度）</li>
-              <li>簡単なロゴデザイン・バナー作成</li>
+              <li><a href="https://www.notion.so/1d9deaea56828070a996ee08552dfa12" target="_blank" rel="nofollow noopener">グラフィックデザイン・作図</a></li>
               <li>制作スケジュールの管理・進行</li>
               <li>後輩への技術指導</li>
               <li>チームマネジメント（5人程度のチームリーダー経験）</li>
               <li>プレゼンテーション</li>
             </ul>
+            <i class="kiritori"></i>
             <div class="content-box transparent">
               <h3 class="mtitle-bll">ロゴ・バナー作成例</h3>
 

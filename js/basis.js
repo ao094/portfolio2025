@@ -197,7 +197,7 @@ $('#sp-nav a').on('click', function () {
 $('body').removeClass('open');
 });
 
-$(window).on('load', function () {
+$(document).ready(function () {
 $('#js-loader').fadeOut(1200);
 });
 

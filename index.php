@@ -263,29 +263,6 @@
               <li>チームマネジメント（5人程度のチームリーダー経験）</li>
               <li>プレゼンテーション</li>
             </ul>
-            <i class="kiritori"></i>
-            <div class="content-box transparent">
-              <h3 class="mtitle-bll">ロゴ・バナー作成例</h3>
-
-              <div class="gallerybox">
-                <ul class="slide_list type1">
-                  <li><a href="gallery/001.png" rel="lightbox[photo]"><img src="gallery/001.png"></a></li>
-                  <li><a href="gallery/002.png" rel="lightbox[photo]"><img src="gallery/002.png"></a></li>
-                  <li><a href="gallery/003.jpg" rel="lightbox[photo]"><img src="gallery/003.jpg"></a></li>
-                  <li><a href="gallery/004.png" rel="lightbox[photo]"><img src="gallery/004.png"></a></li>
-                  <li><a href="gallery/005.png" rel="lightbox[photo]"><img src="gallery/005.png"></a></li>
-                  <li><a href="gallery/006.jpg" rel="lightbox[photo]"><img src="gallery/006.jpg"></a></li>
-                </ul>
-                <ul class="slide_list2 type1">
-                  <li><a href="gallery/007.jpg" rel="lightbox[photo]"><img src="gallery/007.jpg"></a></li>
-                  <li><a href="gallery/008.jpg" rel="lightbox[photo]"><img src="gallery/008.jpg"></a></li>
-                  <li><a href="gallery/009.jpg" rel="lightbox[photo]"><img src="gallery/009.jpg"></a></li>
-                  <li><a href="gallery/010.jpg" rel="lightbox[photo]"><img src="gallery/010.jpg"></a></li>
-                  <li><a href="gallery/011.png" rel="lightbox[photo]"><img src="gallery/011.png"></a></li>
-                  <li><a href="gallery/012.png" rel="lightbox[photo]"><img src="gallery/012.png"></a></li>
-                </ul>
-              </div>
-            </div>
           </div>
         </div>
       </section>

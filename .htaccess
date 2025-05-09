@@ -2,3 +2,9 @@
 Header always set Cache-Control "no-cache, no-store, must-revalidate"
 Header always set Pragma "no-cache"
 Header always set Expires "0"
+
+# ベーシック認証
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile "/home/users/0/main.jp-7116316ec1aba5b1/web/ver2025/.htpasswd"
+Require valid-user
